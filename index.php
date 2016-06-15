@@ -51,11 +51,11 @@
                         <li><a href = "#" class="page-scroll">Sizes</a></li>
           			</ul>
                 </li>
-                <li><a href = "#" class="page-scroll">Website</a></li>
-				<li><a href = "#" class="page-scroll">Email Digests</a></li>
-                <li><a href = "#" class="page-scroll">Magazine</a></li>
-                <li><a href = "#" class="page-scroll">Publication Dates</a></li>
-                <li><a href = "#" class="page-scroll">Pricing</a></li>
+                <li><a href = "#Website" class="page-scroll">Website</a></li>
+				<li><a href = "#Digests" class="page-scroll">Email Digests</a></li>
+                <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
+                <li><a href = "#Calendar" class="page-scroll">Publication Dates</a></li>
+                <li><a href = "#Pricing" class="page-scroll">Pricing</a></li>
             </ul>
             <ul class = "nav navbar-nav navbar-right">
             	<li><a href = "#">Download Media Kit</a>
@@ -119,7 +119,7 @@
 			</div>
 		</div>
 	</section>
-    <section class = "page-section" id="Newspaper">
+    <section class="page-section" id="Newspaper">
     	<div class="container">
         	<div class="row">
             	<div class="col-md-12">
@@ -136,6 +136,60 @@
 
 <p>Proin vel metus sed mauris malesuada volutpat et nec lorem. Cras tortor quam, vestibulum sit amet luctus ac, faucibus sed purus. Duis finibus euismod lacus. Aliquam ullamcorper nulla et metus mollis luctus. Vestibulum eu molestie sem, sit amet scelerisque est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In sit amet eros ex. Mauris interdum, massa sed efficitur bibendum, est felis hendrerit lacus, sit amet scelerisque quam nibh eu tortor. Nulla congue tincidunt lacus, maximus volutpat sem ullamcorper a.</p>
                     </h4>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="page-section" id="Website">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                	<div class="section-title">Website</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="page-section" id="Digests">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                	<div class="section-title">Email Digests</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="page-section" id="Magazine">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                	<div class="section-title">Email Digests</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="page-section" id="Calendar">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                	<div class="section-title">Publication Dates</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="page-section" id="Pricing">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                	<div class="section-title">Pricing Chart</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="page-section" id="Contact">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                	<div class="section-title">Contact Sales</div>
                 </div>
             </div>
         </div>
