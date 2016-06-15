@@ -36,32 +36,37 @@
   </head>
   <body>
     <nav class = "navbar navbar-default navbar-fixed-top">
-    	<div class="navbar-header">
-      		<a class="navbar-brand" href="#">THE STANFORD DAILY</a>
-    	</div>
-    
     	<div class="container-fluid">
-            <ul class = "nav navbar-nav">
-                <li><a href = "#Advertising" class="page-scroll">Advertising</a></li>
-                <li><a href = "#Readership" class="page-scroll">Readership</a></li>
-                <li class="dropdown">
-          			<a href="#Newspaper" class="dropdown-toggle page-scroll" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Newspaper <span class="caret"></span></a>
-          			<ul class="dropdown-menu">
-                    	<li><a href = "#" class="page-scroll">Special Issues</a></li>
-                        <li><a href = "#" class="page-scroll">Sizes</a></li>
-          			</ul>
-                </li>
-                <li><a href = "#Website" class="page-scroll">Website</a></li>
-				<li><a href = "#Digests" class="page-scroll">Email Digests</a></li>
-                <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
-                <li><a href = "#Calendar" class="page-scroll">Publication Dates</a></li>
-                <li><a href = "#Pricing" class="page-scroll">Pricing</a></li>
-            </ul>
-            <ul class = "nav navbar-nav navbar-right">
-            	<li><a href = "#">Download Media Kit</a>
-            	<li><a id="sales-link" href = "#" class="page-scroll">Contact Sales</a></li>
-            </ul>
-        </div>
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-links" aria-expanded="false">
+                    <span>Toggle nav</span>
+                </button>
+                <a class="navbar-brand" href="#">THE STANFORD DAILY</a>
+            </div>
+        
+            <div class="collapse navbar-collapse" id="nav-links">
+                <ul class = "nav navbar-nav">
+                    <li><a href = "#Advertising" class="page-scroll">Advertising</a></li>
+                    <li><a href = "#Readership" class="page-scroll">Readership</a></li>
+                    <li class="dropdown">
+                        <a href="#Newspaper" class="dropdown-toggle page-scroll" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Newspaper <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href = "#" class="page-scroll">Special Issues</a></li>
+                            <li><a href = "#" class="page-scroll">Sizes</a></li>
+                        </ul>
+                    </li>
+                    <li><a href = "#Website" class="page-scroll">Website</a></li>
+                    <li><a href = "#Digests" class="page-scroll">Email Digests</a></li>
+                    <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
+                    <li><a href = "#Calendar" class="page-scroll">Publication Dates</a></li>
+                    <li><a href = "#Pricing" class="page-scroll">Pricing</a></li>
+                </ul>
+                <ul class = "nav navbar-nav navbar-right">
+                    <li><a href = "#">Download Media Kit</a>
+                    <li><a id="sales-link" href = "#" class="page-scroll">Contact Sales</a></li>
+                </ul>
+            </div>
+    	</div>
     </nav>
     
     <section class = "page-section" id="Advertising">
@@ -144,7 +149,7 @@
     	<div class="container">
         	<div class="row">
             	<div class="col-md-12">
-                	<div class="section-title">Website</div>
+                	<div class="section-title"><h2>Website</h2></div>
                 </div>
             </div>
         </div>
@@ -162,7 +167,7 @@
     	<div class="container">
         	<div class="row">
             	<div class="col-md-12">
-                	<div class="section-title">Email Digests</div>
+                	<div class="section-title"><h2>Email Digests</h2></div>
                 </div>
             </div>
         </div>
@@ -171,7 +176,7 @@
     	<div class="container">
         	<div class="row">
             	<div class="col-md-12">
-                	<div class="section-title">Publication Dates</div>
+                	<div class="section-title"><h2>Publication Dates</h2></div>
                 </div>
             </div>
         </div>
@@ -180,7 +185,7 @@
     	<div class="container">
         	<div class="row">
             	<div class="col-md-12">
-                	<div class="section-title">Pricing Chart</div>
+                	<div class="section-title"><h2>Pricing Chart</h2></div>
                 </div>
             </div>
         </div>
@@ -189,7 +194,7 @@
     	<div class="container">
         	<div class="row">
             	<div class="col-md-12">
-                	<div class="section-title">Contact Sales</div>
+                	<div class="section-title"><h2>Contact Sales</h2></div>
                 </div>
             </div>
         </div>
