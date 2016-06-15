@@ -19,7 +19,7 @@
 		.navbar-brand{color: #F00 !important;}
 		.newspaper-main{width: 100%;}
 		.formatted-element{margin: 32px 0; }
-		.page-section{height: 100%; padding-top: 70px;}
+		.page-section{min-height: 100%; padding-top: 70px;}
 		.section-title{border-bottom: 1px solid #666; margin-bottom: 10px;}
 		
 		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 2px 2px #888888;}
@@ -38,8 +38,8 @@
     <nav class = "navbar navbar-default navbar-fixed-top">
     	<div class="container-fluid">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-links" aria-expanded="false">
-                    <span>Toggle nav</span>
+                <button type="button" class="navbar-toggle collapsed btn-primary" data-toggle="collapse" data-target="#nav-links" aria-expanded="false">
+                    <span>Menu <span class="caret"></span></span>
                 </button>
                 <a class="navbar-brand" href="#">THE STANFORD DAILY</a>
             </div>
