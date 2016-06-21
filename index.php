@@ -197,7 +197,7 @@
                 	<div class="section-title"><h2>Pricing Chart</h2></div>
                 	<div class="panel panel-default">
                     	<div class="panel-heading"><strong>Newspaper print rates</strong></div>
-                       	<table class="table">
+                       	<table class="table table-hover">
                         	<tr>
                             	<th>&nbsp;</th>
                                 <th>ASSU</th>
