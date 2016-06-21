@@ -152,7 +152,7 @@
             </div>
             <div class="row">
             	<div class="col-md-5">
-                	<img src="images/stanford-daily-website.jpg" title="The Stanford Daily&#39;s website" />
+                	<img src="images/stanford-daily-website.jpg" title="The Stanford Daily&#39;s website" style="max-width: 100%;"/>
                 </div>
                 <div class="col-md-7">
                 	Banner ads <strong>$15</strong> CPM.
