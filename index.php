@@ -195,6 +195,43 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Pricing Chart</h2></div>
+                	<div class="panel panel-default">
+                    	<div class="panel-heading">Newspaper print rates</div>
+                       	<table class="table">
+                        	<tr>
+                            	<th>&nbsp;</th>
+                                <th>ASSU</th>
+                                <th>University</th>
+                                <th>Local</th>
+                                <th>Non-Local</th>
+                                <th>National</th>
+                            </tr>
+                         	<tr>
+                            	<td>Column-inch rate</td>
+                                <td>$6</td>
+                                <td>$13</td>
+                                <td>$14</td>
+                                <td>$16</td>
+                                <td>$19</td>
+                            </tr>
+                            <tr>
+                            	<td>Full</td>
+                                <td>$756</td>
+                                <td>$1,638</td>
+                                <td>$1,764</td>
+                                <td>$2,016</td>
+                                <td>$2,394</td>
+                            </tr>
+                            <tr>
+                            	<td>Half</td>
+                                <td>$378</td>
+                                <td>$819</td>
+                                <td>$882</td>
+                                <td>$1,008</td>
+                                <td>$1,197</td>
+                            </tr>
+                        </table>
+                    </div>
                 </div>
             </div>
         </div>
