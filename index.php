@@ -8,11 +8,12 @@
     <title>The Stanford Daily</title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/buttons.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/buttons.css" rel="stylesheet" />
+    <link href="css/simple-calendar.css" rel="stylesheet" />
     <style>
 		h1{font-size: 30pt !important;}
-		h4 strong{color: #F00; font-size: 19pt; font-weight: bold;}
+		h4 strong{color: #F00; font-size: 18pt; font-weight: bold;}
 		
 		button{margin: 0px 3px !important;}
 
@@ -186,6 +187,7 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Publication Dates</h2></div>
+                    <script src="js/simplecalendar.js"></script>
                 </div>
             </div>
         </div>
@@ -294,10 +296,10 @@
             	<div class = "col-md-4">
                 	<h3><strong>Discounts</strong></h3>
                     <ul class = "list-group">
-                        <li class = "list-group-item">Buy 5 ads, take 5% off column-inch rate</li>
-                        <li class = "list-group-item">Buy 10 ads, take 10% off column-inch rate</li>
-                        <li class = "list-group-item">Buy 15 ads, take 15% off column-inch rate</li>
-                        <li class = "list-group-item">Buy 25 ads, take 25% off column inch rate</li>
+                        <button type="button" class = "list-group-item">Buy 5 ads, take 5% off column-inch rate</button>
+                        <button type="button" class = "list-group-item">Buy 10 ads, take 10% off column-inch rate</button>
+                        <button type="button" class = "list-group-item">Buy 15 ads, take 15% off column-inch rate</button>
+                        <button type="button" class = "list-group-item">Buy 25 ads, take 25% off column inch rate</button>
                     </ul>
                    	<h3><strong>Custom sizing</strong></h3>
                     <h4>
@@ -330,7 +332,6 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
-    <script src="js/scrolling-nav.js"></script>
-   
+    <script src="js/scrolling-nav.js"></script>   
   </body>
 </html>
