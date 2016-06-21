@@ -191,10 +191,12 @@
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Magazine</h2></div>
                     <h4>
-                    	<p>Starting in the 2016-17 school year, The Stanford Daily will publish 8 issues of a magazine with X pages of exclusive feature content. Advertising is available both on a per-issue and a whole-series basis.</p>
+                    	<p>Starting in the 2016-17 school year, The Stanford Daily will publish 8 issues of a magazine to contain some of our highest quality long-form jornalism. The magazine is to be distributed on campus by students to places of high visibility and sent to our network of subscribers.</p>
+                        <p>Advertising is available both on a per-issue and a whole-series basis.</p>
                     	<p><em>Please contact us at <a href="mailTo:advertising@stanford.edu">advertising@stanford.edu</a> for rates.</em></p>
+                        <p>&nbsp;</p>
                     </h4>
-                    <div class="list-group" style="max-width: 50%;">
+                    <div class="list-group" style="max-width: 45%;">
                         <button type="button" class="list-group-item"><strong>Magazine publication dates</strong></button>
                     	<button type="button" class="list-group-item">Fall issue 1: 9/19</button>
                      	<button type="button" class="list-group-item">Fall issue 2: 10/21</button>
