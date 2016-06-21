@@ -196,6 +196,10 @@
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Pricing Chart</h2></div>
                     <h4>We offer a wide range of products to best cater to your advertising needs.</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-9">
                 	<div class="panel panel-primary">
                     	<div class="panel-heading"><strong>Newspaper print rates</strong></div>
                        	<table class="table table-hover">
@@ -274,39 +278,35 @@
                         </table>
                     </div>
                 </div>
+                <div class = "col-md-3">
+                </div>
             </div>
             <div class = "row">
             	<div class = "col-md-4">
-                	<h3><strong>Custom sizing</strong></h3>
-                    <h4>Pick from any height/any of the following column widths</h4>
-                        <ul class = "list-group">
-                        	<li class = "list-group-item">1 column - 1.55&quot;</li>
-                            <li class = "list-group-item">2 columns - 3.24&quot;</li>
-                            <li class = "list-group-item">3 columns - 4.93&quot;</li>
-                            <li class = "list-group-item">4 columns - 6.62&quot;</li>
-                            <li class = "list-group-item">5 columns - 8.31&quot;</li>
-                            <li class = "list-group-item">6 columns - 10&quot;</li>
-                        </ul>
-                    </h4>
-                    <h3><strong>Front page stickers</strong></h3>
+                	<h3><strong>Premium placement</strong></h3>
+                    <h4>Pay a <strong>5%</strong> premium to place an ad on Page 2, 3 or Back Cover (color required on Page 3 or Back Cover)</h4>
+                	<h3><strong>Discounts</strong></h3>
+                    <ul class = "list-group">
+                        <li class = "list-group-item">Buy 5 ads, take 5% off column-inch rate</li>
+                        <li class = "list-group-item">Buy 10 ads, take 10% off column-inch rate</li>
+                        <li class = "list-group-item">Buy 15 ads, take 15% off column-inch rate</li>
+                        <li class = "list-group-item">Buy 25 ads, take 25% off column inch rate</li>
+                    </ul>
+                    <em>25% non-profit discount (only non-Stanford accounts)</em>          
+                </div>
+            	<div class = "col-md-4">
+                	<h3><strong>Front page stickers</strong></h3>
                     <h4>
                     	<p><strong>$600</strong></p>
                         <p>Ship inserts and stickers to:</p>
                         <p>Fricke Parks Press<br />33250 Transit Avenue, Union City, California, 94587</p>
                         <p><em>Full press run of 8,000 copies required. Materials must be received one week prior to publication.</em></p>
                     </h4>
-                </div>
-                <div class = "col-md-4">
-                	<h3><strong>Discounts</strong></h3>
-                    	<ul class = "list-group">
-                        	<li class = "list-group-item">Buy 5 ads, take 5% off column-inch rate</li>
-                            <li class = "list-group-item">Buy 10 ads, take 10% off column-inch rate</li>
-                            <li class = "list-group-item">Buy 15 ads, take 15% off column-inch rate</li>
-                            <li class = "list-group-item">Buy 25 ads, take 25% off column inch rate</li>
-                            <li class = "list-group-item">Non-profit? Non-Stanford account? Take 25% off column-inch rate</li>
-                        </ul>
-                    <h3><strong>Premium placement</strong></h3>
-                    <h4>Pay a <strong>5%</strong> premium to place an ad on Page 2, 3 or Back Cover (color required on Page 3 or Back Cover)</h4>
+                	<h3><strong>Custom sizing</strong></h3>
+                    <h4>
+                    	<p>Other sizes available! Just chose your height and number of column widths.</p>
+                        <p><a href = "#">See size chart</a></p>
+                    </h4>
                 </div>
                 <div class = "col-md-4">
                 	<h3><strong>Special issue sponsorship</strong></h3>
