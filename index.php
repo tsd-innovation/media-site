@@ -195,7 +195,7 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Pricing Chart</h2></div>
-                	<div class="panel panel-danger">
+                	<div class="panel panel-primary">
                     	<div class="panel-heading"><strong>Newspaper print rates</strong></div>
                        	<table class="table table-hover">
                         	<tr>
