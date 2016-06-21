@@ -131,27 +131,14 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Newspaper</h2></div>
-   
-                	<h4><p>The Stanford Daily is the newspaper that students, faculty and alumni trust to deliver the latest news from the Farm.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut mauris vel lectus faucibus elementum. Pellentesque semper, nisl quis faucibus finibus, ante nibh ullamcorper magna, at vulputate libero lectus in tellus. Phasellus vulputate ante nec urna iaculis, nec pulvinar tellus fringilla. Donec tempor quis justo id pellentesque. Vivamus eget dolor mauris. Vestibulum tempor elit porta lectus cursus, ut tempor diam luctus. Donec volutpat velit sit amet leo eleifend elementum. Aenean bibendum lacinia auctor. Nunc vehicula eget leo quis dictum. Proin vitae consectetur velit. Sed at aliquam tellus. Duis gravida est ligula, id rutrum mi placerat sit amet. Vestibulum ex odio, euismod vel venenatis sed, tristique iaculis dui. Mauris rhoncus elit sit amet purus pellentesque, vitae tempus ex faucibus.</p>
-
-<p>Aenean nisl eros, vulputate et molestie at, sagittis ac sapien. Vestibulum ornare nisi a ligula fermentum, non maximus tortor laoreet. Aliquam vehicula fermentum quam vitae molestie. Integer vulputate diam eget convallis pretium. Sed fringilla mattis ex id bibendum. Quisque ultricies orci vitae posuere dictum. Curabitur eu posuere enim, ut luctus sem.</p>
-
-<p>Nam ut libero ex. In et ex bibendum, finibus ligula ut, varius magna. Sed eget faucibus eros, eu scelerisque mi. Proin euismod libero sed feugiat porttitor. Suspendisse sit amet tortor ante. Donec ornare orci ut ante lacinia mollis. Fusce sit amet erat eu tellus consequat venenatis sit amet non diam. Quisque a molestie massa. Vestibulum turpis nibh, sagittis vel dictum in, dictum vel sapien. Nam vitae massa eu dui tempor semper quis vel ante. Cras ut commodo odio. Nunc eros est, ornare sed semper quis, commodo vitae libero.</p>
-
-<p>Mauris tincidunt quam ac erat volutpat, non blandit tellus facilisis. Aenean sit amet enim non dolor tincidunt malesuada. Aenean tempus lacus est, id commodo tortor fermentum vel. Etiam vulputate volutpat lectus eget blandit. Fusce semper pharetra mauris, id congue tellus gravida in. Sed nunc metus, bibendum at magna blandit, tempus fringilla magna. Aenean id gravida lorem, egestas facilisis dui. Morbi nec tincidunt enim. Aenean eget quam in ipsum rutrum ultricies. Fusce tincidunt sodales ipsum, quis sagittis justo bibendum laoreet. Fusce eu ipsum velit.</p>
-
-<p>Proin vel metus sed mauris malesuada volutpat et nec lorem. Cras tortor quam, vestibulum sit amet luctus ac, faucibus sed purus. Duis finibus euismod lacus. Aliquam ullamcorper nulla et metus mollis luctus. Vestibulum eu molestie sem, sit amet scelerisque est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In sit amet eros ex. Mauris interdum, massa sed efficitur bibendum, est felis hendrerit lacus, sit amet scelerisque quam nibh eu tortor. Nulla congue tincidunt lacus, maximus volutpat sem ullamcorper a.</p>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut mauris vel lectus faucibus elementum. Pellentesque semper, nisl quis faucibus finibus, ante nibh ullamcorper magna, at vulputate libero lectus in tellus. Phasellus vulputate ante nec urna iaculis, nec pulvinar tellus fringilla. Donec tempor quis justo id pellentesque. Vivamus eget dolor mauris. Vestibulum tempor elit porta lectus cursus, ut tempor diam luctus. Donec volutpat velit sit amet leo eleifend elementum. Aenean bibendum lacinia auctor. Nunc vehicula eget leo quis dictum. Proin vitae consectetur velit. Sed at aliquam tellus. Duis gravida est ligula, id rutrum mi placerat sit amet. Vestibulum ex odio, euismod vel venenatis sed, tristique iaculis dui. Mauris rhoncus elit sit amet purus pellentesque, vitae tempus ex faucibus.</p>
-
-<p>Aenean nisl eros, vulputate et molestie at, sagittis ac sapien. Vestibulum ornare nisi a ligula fermentum, non maximus tortor laoreet. Aliquam vehicula fermentum quam vitae molestie. Integer vulputate diam eget convallis pretium. Sed fringilla mattis ex id bibendum. Quisque ultricies orci vitae posuere dictum. Curabitur eu posuere enim, ut luctus sem.</p>
-
-<p>Nam ut libero ex. In et ex bibendum, finibus ligula ut, varius magna. Sed eget faucibus eros, eu scelerisque mi. Proin euismod libero sed feugiat porttitor. Suspendisse sit amet tortor ante. Donec ornare orci ut ante lacinia mollis. Fusce sit amet erat eu tellus consequat venenatis sit amet non diam. Quisque a molestie massa. Vestibulum turpis nibh, sagittis vel dictum in, dictum vel sapien. Nam vitae massa eu dui tempor semper quis vel ante. Cras ut commodo odio. Nunc eros est, ornare sed semper quis, commodo vitae libero.</p>
-
-<p>Mauris tincidunt quam ac erat volutpat, non blandit tellus facilisis. Aenean sit amet enim non dolor tincidunt malesuada. Aenean tempus lacus est, id commodo tortor fermentum vel. Etiam vulputate volutpat lectus eget blandit. Fusce semper pharetra mauris, id congue tellus gravida in. Sed nunc metus, bibendum at magna blandit, tempus fringilla magna. Aenean id gravida lorem, egestas facilisis dui. Morbi nec tincidunt enim. Aenean eget quam in ipsum rutrum ultricies. Fusce tincidunt sodales ipsum, quis sagittis justo bibendum laoreet. Fusce eu ipsum velit.</p>
-
-<p>Proin vel metus sed mauris malesuada volutpat et nec lorem. Cras tortor quam, vestibulum sit amet luctus ac, faucibus sed purus. Duis finibus euismod lacus. Aliquam ullamcorper nulla et metus mollis luctus. Vestibulum eu molestie sem, sit amet scelerisque est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In sit amet eros ex. Mauris interdum, massa sed efficitur bibendum, est felis hendrerit lacus, sit amet scelerisque quam nibh eu tortor. Nulla congue tincidunt lacus, maximus volutpat sem ullamcorper a.</p>
-                    </h4>
+                </div>
+            </div>
+            <div class="row">
+            	<div class="col-md-5">
+                	(Picture/possibly slider of newspaper scans)
+                </div>
+              	<div class="col-md-7">
+                	<h4>Eight thousand copies of The Stanford Daily are distributed each day.</h4>
                 </div>
             </div>
         </div>
@@ -182,11 +169,13 @@
             </div>
             <div class="row">
             	<div class="col-md-5">
-                	
+                	(Picture)
                 </div>
                 <div class="col-md-7">
-                	Normal digest: $350/week
-                    Sports digest: $150/week
+                	<h4>
+                    	<p>Normal digest: $350/week</p>
+                        <p>Sports digest: $150/week</p>
+                    </h4>
                 </div>
             </div>
         </div>
@@ -221,7 +210,7 @@
            </div>
            <div class="row">
            		<div class="col-md-4">
-             		Will use picture of Calendar from media handout.
+             		<h4>Will use picture of Calendar from media handout.</h4>
                 </div>
                 <div class="col-md-7">
                 	<div class="list-group">
@@ -361,6 +350,7 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Contact Sales</h2></div>
+                    <h4><a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a></h4>
                 </div>
             </div>
         </div>
