@@ -280,12 +280,12 @@
                 	<h3><strong>Custom sizing</strong></h3>
                     <h4>Pick from any height/any of the following column widths</h4>
                         <ul class = "list-group">
-                        	<li>1 column - 1.55&quot;</li>
-                            <li>2 columns - 3.24&quot;</li>
-                            <li>3 columns - 4.93&quot;</li>
-                            <li>4 columns - 6.62&quot;</li>
-                            <li>5 columns - 8.31&quot;</li>
-                            <li>6 columns - 10&quot;</li>
+                        	<li class = "list-group-item">1 column - 1.55&quot;</li>
+                            <li class = "list-group-item">2 columns - 3.24&quot;</li>
+                            <li class = "list-group-item">3 columns - 4.93&quot;</li>
+                            <li class = "list-group-item">4 columns - 6.62&quot;</li>
+                            <li class = "list-group-item">5 columns - 8.31&quot;</li>
+                            <li class = "list-group-item">6 columns - 10&quot;</li>
                         </ul>
                     </h4>
                     <h3><strong>Front page stickers</strong></h3>
@@ -298,15 +298,13 @@
                 </div>
                 <div class = "col-md-4">
                 	<h3><strong>Discounts</strong></h3>
-                    <h4>
                     	<ul class = "list-group">
-                        	<li>Buy 5 ads, take 5% off column-inch rate</li>
-                            <li>Buy 10 ads, take 10% off column-inch rate</li>
-                            <li>Buy 15 ads, take 15% off column-inch rate</li>
-                            <li>Buy 25 ads, take 25% off column inch rate</li>
-                            <li>Non-profit? Non-Stanford account? Take 25% off column-inch rate</li>
+                        	<li class = "list-group-item">Buy 5 ads, take 5% off column-inch rate</li>
+                            <li class = "list-group-item">Buy 10 ads, take 10% off column-inch rate</li>
+                            <li class = "list-group-item">Buy 15 ads, take 15% off column-inch rate</li>
+                            <li class = "list-group-item">Buy 25 ads, take 25% off column inch rate</li>
+                            <li class = "list-group-item">Non-profit? Non-Stanford account? Take 25% off column-inch rate</li>
                         </ul>
-                    </h4> 
                     <h3><strong>Premium placement</strong></h3>
                     <h4>Pay a <strong>5%</strong> premium to place an ad on Page 2, 3 or Back Cover (color required on Page 3 or Back Cover)</h4>
                 </div>
