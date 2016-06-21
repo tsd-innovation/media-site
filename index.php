@@ -163,6 +163,14 @@
                 	<div class="section-title"><h2>Website</h2></div>
                 </div>
             </div>
+            <div class="row">
+            	<div class="col-md-5">
+                	<img src="images/stanford-daily-website.jpg" title="The Stanford Daily&#39;s website" />
+                </div>
+                <div class="col-md-7">
+                	Banner ads <strong>$15</strong> CPM.
+                </div>
+            </div>
         </div>
     </section>
     <section class="page-section" id="Digests">
@@ -172,6 +180,15 @@
                 	<div class="section-title"><h2>Email Digests</h2></div>
                 </div>
             </div>
+            <div class="row">
+            	<div class="col-md-5">
+                	
+                </div>
+                <div class="col-md-7">
+                	Normal digest: $350/week
+                    Sports digest: $150/week
+                </div>
+            </div>
         </div>
     </section>
     <section class="page-section" id="Magazine">
@@ -179,6 +196,18 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Magazine</h2></div>
+                    <h4>Starting in the 2016-17 school year, The Stanford Daily will publish 8 issues of a magazine with X pages of exclusive feature content. Advertising is available both on a per-issue and a whole-series basis.</h4>
+                    <div class="list-group">
+                        <button type="button" class="list-group-item"><strong>Magazine publication dates</strong></button>
+                    	<button type="button" class="list-group-item">Fall issue 1: 9/19</button>
+                     	<button type="button" class="list-group-item">Fall issue 2: 10/21</button>
+                    	<button type="button" class="list-group-item">Fall issue 3: 11/18</button>
+                    	<button type="button" class="list-group-item">Winter issue 1: 1/13</button>
+                    	<button type="button" class="list-group-item">Winter issue 2: 2/24</button>
+                    	<button type="button" class="list-group-item">Spring issue 1: 4/7</button>
+                    	<button type="button" class="list-group-item">Spring issue 2: 5/5</button>
+                    	<button type="button" class="list-group-item">Spring issue 3: 6/2</button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -192,29 +221,13 @@
            </div>
            <div class="row">
            		<div class="col-md-4">
-                	<div class="calendar">
-                        <header>
-                            <h2 class="month"></h2>
-                            <a class="btn-prev fontawesome-angle-left" href="#"></a>
-                            <a class="btn-next fontawesome-angle-right" href="#"></a>
-                        </header>
-                        <table>
-                            <thead class="event-days">
-                                <tr></tr>
-                            </thead>
-                            <tbody class="event-calendar">
-                                <tr class="1"></tr>
-                                <tr class="2"></tr>
-                                <tr class="3"></tr>
-                                <tr class="4"></tr>
-                                <tr class="5"></tr>
-                            </tbody>
-                        </table>
-                        <div class="list">
-                        </div>
-                	</div>
+             		Will use picture of Calendar from media handout.
                 </div>
-            </div>
+                <div class="col-md-7">
+                	<div class="list-group">
+                    </div>
+                </div>
+           </div>
         </div>
     </section>
     <section class="page-section" id="Pricing">
