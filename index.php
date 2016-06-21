@@ -212,7 +212,7 @@
                                 <th>National</th>
                             </tr>
                          	<tr>
-                            	<td>Column-inch rate</td>
+                            	<td><strong>Column-inch rate</strong></td>
                                 <td>$6</td>
                                 <td>$13</td>
                                 <td>$14</td>
@@ -220,7 +220,7 @@
                                 <td>$19</td>
                             </tr>
                             <tr>
-                            	<td>Full</td>
+                            	<td><strong>Full</strong></td>
                                 <td>$756</td>
                                 <td>$1,638</td>
                                 <td>$1,764</td>
@@ -228,7 +228,7 @@
                                 <td>$2,394</td>
                             </tr>
                             <tr>
-                            	<td>Half</td>
+                            	<td><strong>Half</strong></td>
                                 <td>$378</td>
                                 <td>$819</td>
                                 <td>$882</td>
@@ -236,7 +236,7 @@
                                 <td>$1,197</td>
                             </tr>
                             <tr>
-                            	<td>Quarter</td>
+                            	<td><strong>Quarter</strong></td>
                                 <td>$189</td>
                                 <td>$409.50</td>
                                 <td>$441</td>
@@ -244,7 +244,7 @@
                                 <td>$598.50</td>
                             </tr>
                             <tr>
-                            	<td>Eighth</td>
+                            	<td><strong>Eighth</strong></td>
                                 <td>$90</td>
                                 <td>$195</td>
                                 <td>$210</td>
@@ -252,7 +252,7 @@
                                 <td>$285</td>
                             </tr>
                             <tr>
-                            	<td>Sixteenth</td>
+                            	<td><strong>Sixteenth</strong></td>
                                 <td>$45</td>
                                 <td>$97.50</td>
                                 <td>$105</td>
@@ -260,7 +260,7 @@
                                 <td>$142.50</td>
                             </tr>
                             <tr>
-                            	<td>Full color surcharge</td>
+                            	<td><strong>Full color surcharge</strong></td>
                                 <td>$100</td>
                                 <td>$200</td>
                                 <td>$200</td>
@@ -268,7 +268,7 @@
                                 <td>$500</td>
                             </tr>
                             <tr>
-                            	<td>Spot color surcharge</td>
+                            	<td><strong>Spot color surcharge</strong></td>
                                 <td>&nbsp;</td>
                                 <td>&nbsp;</td>
                                 <td>&nbsp;</td>
@@ -308,7 +308,7 @@
                 <div class = "col-md-4">
                 	<h3><strong>Special issue sponsorship</strong></h3>
                     <h4>
-                    	<p>All eyes will be on our Special Issues, which provide coverage of Stanford hot topics and exposure during campus special events.</p>
+                    	<p>All eyes will be on our <strong>Special Issues</strong>, which provide coverage of Stanford hot topics and exposure during campus special events.</p>
                         <p>Sponsorships offer our most comprehensive and targeted ad packages to date, and we’re only selling one per Special Issue. We’ll even throw in a full color front page banner ad – the only opportunity to get your brand on our front page.</p>
                         <p><em>Please contact us for pricing information and exact package elements.</em></p>
                     </h4>
