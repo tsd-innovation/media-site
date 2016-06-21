@@ -151,11 +151,14 @@
                 </div>
             </div>
             <div class="row">
-            	<div class="col-md-5">
+            	<div class="col-md-7">
                 	<img src="images/stanford-daily-website.jpg" title="The Stanford Daily&#39;s website" style="max-width: 100%;"/>
                 </div>
-                <div class="col-md-7">
-                	Banner ads <strong>$15</strong> CPM.
+                <div class="col-md-5">
+                	<h4>
+                    	<p>The Stanford Daily's website is the portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm.</p>
+                        <p>Banner ads <strong>$15</strong> CPM.
+                    </h4>
                 </div>
             </div>
         </div>
