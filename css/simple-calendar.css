@@ -2,30 +2,30 @@
     font-family: 'FontAwesome', sans-serif;
 }
 
-body {
+/*body {
     background: #f9f9f9;
     color: #0e171c;
     font: 300 100%/1.5em 'Lato', sans-serif;
     margin: 0;
-}
+} */
 
-a {
+.calendar a {
     text-decoration: none;
 }
 
-h2 {
+.calendar h2 {
     font-size: 22px;
     line-height: 20px;
     margin: 4px 0;
 }
 
-h3 {
+.calendar h3 {
     font-size: 24px;
     line-height: 24px;
     margin: 5px 0;
 }
 
-table {
+.calendar table {
     border-spacing: 0;
     width: 100%;
 }
@@ -185,9 +185,9 @@ table {
 .check-btn {
     width: 100%;
 }
-input[type=checkbox] {display:none;}
+.calendar input[type=checkbox] {display:none;}
 
-span {
+.calendar span {
     background-color:#373740;
     -webkit-border-radius:4px;
     -moz-border-radius:4px;
@@ -212,11 +212,11 @@ span {
     transition:background-color 150ms ease-in;
 }
 
-span:hover {
+.calendar span:hover {
     background-color:#c0392b;
 }
 
-input[type=checkbox]:checked + span {
+.calendar input[type=checkbox]:checked + span {
     background-color:#9C2E23;
     text-decoration:none;
     -webkit-border-radius:4px;
@@ -226,7 +226,7 @@ input[type=checkbox]:checked + span {
     background-size:15px 13px;
 }
 
-input[type=checkbox]:checked:hover + span {
+.calendar input[type=checkbox]:checked:hover + span {
     background-color:#9C2E23;
     color:rgba(255,255,255,0.5);
     text-decoration:none;
