@@ -188,6 +188,7 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Publication Dates</h2></div>
+                    <div class="calendar"></div>
                     <script src="js/simplecalendar.js"></script>
                 </div>
             </div>
