@@ -172,12 +172,14 @@
             </div>
             <div class="row">
             	<div class="col-md-5">
-                	(Picture)
+                	(Picture of digest)
                 </div>
                 <div class="col-md-7">
                 	<h4>
-                    	<p>Normal digest: $350/week</p>
-                        <p>Sports digest: $150/week</p>
+                    	<p>The Daily's email digests go out to thousands of readers each day. In the past year, over 100,000 articles have been opened directly from either the email or the sports digests.</p>
+                        <p>Sponsorship of the email digest gives your business access to some of the Daily's most loyal readers who are deeply invested in the Stanford community.</p>
+                    	<p>Normal digest: <strong>$350/week</strong></p>
+                        <p>Sports digest: <strong>$150/week</strong></p>
                     </h4>
                 </div>
             </div>
@@ -188,8 +190,11 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Magazine</h2></div>
-                    <h4>Starting in the 2016-17 school year, The Stanford Daily will publish 8 issues of a magazine with X pages of exclusive feature content. Advertising is available both on a per-issue and a whole-series basis.</h4>
-                    <div class="list-group">
+                    <h4>
+                    	<p>Starting in the 2016-17 school year, The Stanford Daily will publish 8 issues of a magazine with X pages of exclusive feature content. Advertising is available both on a per-issue and a whole-series basis.</p>
+                    	<p><em>Please contact us at <a href="mailTo:advertising@stanford.edu">advertising@stanford.edu</a> for rates.</em></p>
+                    </h4>
+                    <div class="list-group" style="max-width: 50%;">
                         <button type="button" class="list-group-item"><strong>Magazine publication dates</strong></button>
                     	<button type="button" class="list-group-item">Fall issue 1: 9/19</button>
                      	<button type="button" class="list-group-item">Fall issue 2: 10/21</button>
