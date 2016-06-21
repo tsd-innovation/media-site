@@ -195,9 +195,9 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Pricing Chart</h2></div>
+                    <h4>We offer a wide range of products to best cater to your advertising needs.</h4>
                 	<div class="panel panel-primary">
                     	<div class="panel-heading"><strong>Newspaper print rates</strong></div>
-                        <h4>We offer a wide range of products to best cater to your advertising needs.</h4>
                        	<table class="table table-hover">
                         	<tr>
                             	<th>&nbsp;</th>
@@ -278,33 +278,43 @@
             <div class = "row">
             	<div class = "col-md-4">
                 	<h3><strong>Custom sizing</strong></h3>
-                    <h4>1 column - 1.55&quot;</h4>
-                    <h3>Discounts</h3>
-                    <h4>
-                    	<ul>
-                        	<li>Buy 5 ads, take 5% off column-inch rate</li>
-                            <li>Buy 10 ads, take 10% off column-inch rate</li>
-                            <li>Buy 15 ads, take 15% off column-inch rate</li>
-                            <li>Buy 25 ads, take 25% off column inch rate</li>
-                            <li>Non-profit? Non-Stanford account? Take 25% off column-inch rate</li>
+                    <h4>Pick from any height/any of the following column widths</h4>
+                        <ul class = "list-group">
+                        	<li>1 column - 1.55&quot;</li>
+                            <li>2 columns - 3.24&quot;</li>
+                            <li>3 columns - 4.93&quot;</li>
+                            <li>4 columns - 6.62&quot;</li>
+                            <li>5 columns - 8.31&quot;</li>
+                            <li>6 columns - 10&quot;</li>
                         </ul>
-                    </h4>   
-                </div>
-                <div class = "col-md-4">
-                	<h3><strong>Front page stickers</strong></h3>
+                    </h4>
+                    <h3><strong>Front page stickers</strong></h3>
                     <h4>
                     	<p><strong>$600</strong></p>
                         <p>Ship inserts and stickers to:</p>
                         <p>Fricke Parks Press<br />33250 Transit Avenue, Union City, California, 94587</p>
                         <p><em>Full press run of 8,000 copies required. Materials must be received one week prior to publication.</em></p>
                     </h4>
+                </div>
+                <div class = "col-md-4">
+                	<h3><strong>Discounts</strong></h3>
+                    <h4>
+                    	<ul class = "list-group">
+                        	<li>Buy 5 ads, take 5% off column-inch rate</li>
+                            <li>Buy 10 ads, take 10% off column-inch rate</li>
+                            <li>Buy 15 ads, take 15% off column-inch rate</li>
+                            <li>Buy 25 ads, take 25% off column inch rate</li>
+                            <li>Non-profit? Non-Stanford account? Take 25% off column-inch rate</li>
+                        </ul>
+                    </h4> 
                     <h3><strong>Premium placement</strong></h3>
                     <h4>Pay a <strong>5%</strong> premium to place an ad on Page 2, 3 or Back Cover (color required on Page 3 or Back Cover)</h4>
                 </div>
                 <div class = "col-md-4">
                 	<h3><strong>Special issue sponsorship</strong></h3>
                     <h4>
-                    	<p>All eyes will be on our Special Issues, which provide coverage of Stanford hot topics and exposure during campus special events. Sponsorships offer our most comprehensive and targeted ad packages to date, and we’re only selling one per Special Issue. We’ll even throw in a full color front page banner ad – the only opportunity to get your brand on our front page.</p>
+                    	<p>All eyes will be on our Special Issues, which provide coverage of Stanford hot topics and exposure during campus special events.</p>
+                        <p>Sponsorships offer our most comprehensive and targeted ad packages to date, and we’re only selling one per Special Issue. We’ll even throw in a full color front page banner ad – the only opportunity to get your brand on our front page.</p>
                         <p><em>Please contact us for pricing information and exact package elements.</em></p>
                     </h4>
                 </div>
