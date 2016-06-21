@@ -34,6 +34,7 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   </head>
   <body>
     <nav class = "navbar navbar-default navbar-fixed-top">
@@ -295,12 +296,12 @@
                 </div>
             	<div class = "col-md-4">
                 	<h3><strong>Discounts</strong></h3>
-                    <ul class = "list-group">
+                    <div class = "list-group">
                         <button type="button" class = "list-group-item">Buy 5 ads, take 5% off column-inch rate</button>
                         <button type="button" class = "list-group-item">Buy 10 ads, take 10% off column-inch rate</button>
                         <button type="button" class = "list-group-item">Buy 15 ads, take 15% off column-inch rate</button>
                         <button type="button" class = "list-group-item">Buy 25 ads, take 25% off column inch rate</button>
-                    </ul>
+                    </div>
                    	<h3><strong>Custom sizing</strong></h3>
                     <h4>
                     	<p>Other sizes available! Just chose your height and number of column widths.</p>
@@ -327,8 +328,6 @@
             </div>
         </div>
     </section>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
