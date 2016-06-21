@@ -196,7 +196,7 @@
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Pricing Chart</h2></div>
                 	<div class="panel panel-default">
-                    	<div class="panel-heading">Newspaper print rates</div>
+                    	<div class="panel-heading"><strong>Newspaper print rates</strong></div>
                        	<table class="table">
                         	<tr>
                             	<th>&nbsp;</th>
@@ -229,6 +229,30 @@
                                 <td>$882</td>
                                 <td>$1,008</td>
                                 <td>$1,197</td>
+                            </tr>
+                            <tr>
+                            	<td>Quarter</td>
+                                <td>$189</td>
+                                <td>$409.50</td>
+                                <td>$441</td>
+                                <td>$504</td>
+                                <td>$598.50</td>
+                            </tr>
+                            <tr>
+                            	<td>Eighth</td>
+                                <td>$90</td>
+                                <td>$195</td>
+                                <td>$210</td>
+                                <td>$240</td>
+                                <td>$285</td>
+                            </tr>
+                            <tr>
+                            	<td>Sixteenth</td>
+                                <td>$45</td>
+                                <td>$97.50</td>
+                                <td>$105</td>
+                                <td>$120</td>
+                                <td>$142.50</td>
                             </tr>
                         </table>
                     </div>
