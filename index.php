@@ -66,7 +66,7 @@
                 </ul>
                 <ul class = "nav navbar-nav navbar-right">
                     <li><a href = "#">Download Media Kit</a>
-                    <li><a id="sales-link" href = "#" class="page-scroll">Contact Sales</a></li>
+                    <li><a id="sales-link" href = "#Contact" class="page-scroll">Contact Sales</a></li>
                 </ul>
             </div>
     	</div>
@@ -366,7 +366,7 @@
             <div class="row">
             	<div class="col-md-6">
            			<div class = "panel panel-default">	
-                    	<div class="panel-heading"><h4><a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a></h4></div>
+                    	<div class="panel-heading"><h4><span class="norm-bold">Contact Information</span></h4></div>
                        	<div class="panel-body">
                         	<h4>
 								<p><span class="norm-bold">By Phone</span></p>
@@ -384,7 +384,7 @@
                 </div>
                 <div class="col-md-6">
                 	<h3>We can help take your business to the next level.</h3>
-                    <h4>The Stanford Daily offers the expertise, opportunities and mechanisms for expanding your business to a significant new market. Please reach out to us with your ideas and objectives and we will help find the right solution for your business.</h4>
+                    <h4>The Stanford Daily offers the expertise, opportunities and mechanisms for expanding your business to a significant new market. Please reach out to us with your ideas and objectives and we will help find the right solutions for your business.</h4>
                 </div>
             </div>
         </div>
