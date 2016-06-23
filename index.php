@@ -22,6 +22,7 @@
 		.formatted-element{margin: 32px 0; }
 		.page-section{min-height: 100%; padding-top: 70px;}
 		.section-title{border-bottom: 1px solid #666; margin-bottom: 10px;}
+		.norm-bold{font-weight: bold;}
 		
 		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 2px 2px #888888;}
 		#sales-link{color: #F00; !important;}
@@ -360,7 +361,30 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Contact Sales</h2></div>
-                    <h4><a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a></h4>
+                </div>
+            </div>
+            <div class="row">
+            	<div class="col-md-6">
+           			<div class = "panel panel-default">	
+                    	<div class="panel-heading"><h4><a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a></h4></div>
+                       	<div class="panel-body">
+                        	<h4>
+								<p><span class="norm-bold">By Phone</span></p>
+                                <p>(650) 721-5803</p>
+                                <p> &nbsp; </p>
+                            	<p><span class="norm-bold">By Email:</span></p>
+                                <p><a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>
+                             	<p> &nbsp; </p>
+                              	<p><span class="norm-bold">By Mail:</span></p>
+                                <p>456 Panama Mall<br />Stanford, CA 94305</p>
+                                <p> &nbsp; </p>  
+                        	</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                	<h3>We can help take your business to the next level.</h3>
+                    <h4>The Stanford Daily offers the expertise, opportunities and mechanisms for expanding your business to a significant new market. Please reach out to us with your ideas and objectives and we will help find the right solution for your business.</h4>
                 </div>
             </div>
         </div>
