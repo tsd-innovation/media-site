@@ -369,14 +369,15 @@
                     	<div class="panel-heading"><h4><span class="norm-bold">Contact Information</span></h4></div>
                        	<div class="panel-body">
                         	<h4>
-								<p><span class="norm-bold">By Phone</span></p>
+								<p><span class="norm-bold">By Phone:</span></p>
                                 <p>(650) 721-5803</p>
                                 <p> &nbsp; </p>
                             	<p><span class="norm-bold">By Email:</span></p>
-                                <p><a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>
+                                <p>Sales: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a><br />
+                                General Inquiries: <a href="mailTo:coo@stanforddaily.com">coo@stanforddaily.com</a></p>
                              	<p> &nbsp; </p>
                               	<p><span class="norm-bold">By Mail:</span></p>
-                                <p>456 Panama Mall<br />Stanford, CA 94305</p>
+                                <p>The Stanford Daily Publishing Corporation<br />456 Panama Mall<br />Stanford, CA 94305</p>
                                 <p> &nbsp; </p>  
                         	</p>
                         </div>
