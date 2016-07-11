@@ -82,7 +82,7 @@
                 </div>
                 <div class = "col-md-5">
                     <div class = "formatted-element">
-                        <h1>Stanford is America's dream school. Andrew Mather can help you access it.</h1>
+                        <h1>Stanford is America's dream school. We can help you access it.</h1>
                     </div>
                     <div class = "formatted-element">
                         <h4>
