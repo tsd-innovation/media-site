@@ -13,11 +13,11 @@
     <link href="css/simple-calendar.css" rel="stylesheet" />
     <style>
 		h1{font-size: 30pt !important;}
-		h4 strong{color: #F00; font-size: 18pt; font-weight: bold;}
+		h4 strong{color: #AC0000; font-size: 18pt; font-weight: bold;}
 		
 		button{margin: 0px 3px !important;}
 
-		.navbar-brand{color: #F00 !important;}
+		.navbar-brand{color: #AC0000 !important;}
 		.newspaper-main{width: 100%;}
 		.formatted-element{margin: 32px 0; }
 		.page-section{min-height: 100%; padding-top: 70px;}
