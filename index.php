@@ -18,7 +18,7 @@
 		button{margin: 0px 3px !important;}
 
 		.navbar-brand{color: #AC0000 !important;}
-		.newspaper-main{width: 100%;}
+		#newspaper-main{width: 100%;}
 		.formatted-element{margin: 32px 0; }
 		.page-section{min-height: 100%; padding-top: 70px;}
 		.section-title{border-bottom: 1px solid #666; margin-bottom: 10px;}
@@ -77,7 +77,7 @@
         	<div class="row">
                 <div class = "col-md-7">
                     <div id = "newspaper-image">
-                        <img class = "newspaper-main" src = "images/stanford-daily-newspaper.jpg" title = "The Stanford Daily" />
+                        <img id = "newspaper-main" src = "images/stanford-daily-newspaper.jpg" title = "The Stanford Daily" />
                     </div>
                 </div>
                 <div class = "col-md-5">
