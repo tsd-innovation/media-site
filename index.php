@@ -64,7 +64,8 @@
                     <li><a href = "#Digests" class="page-scroll">Email Digests</a></li>
                     <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
                     <li><a href = "#Calendar" class="page-scroll">Publication Dates</a></li>
-                    <li><a href = "#Pricing" class="page-scroll">Pricing</a></li>
+                    <li><a href = "#Rates" class="page-scroll">Rates</a></li>
+                    <li><a href = "#Magazine" class="page-scroll">Policies</a></li>
                 </ul>
                 <ul class = "nav navbar-nav navbar-right">
                     <li><a href = "#">Download Media Kit</a>
@@ -232,11 +233,11 @@
            </div>
         </div>
     </section>
-    <section class="page-section" id="Pricing">
+    <section class="page-section" id="Rates">
     	<div class="container">
         	<div class="row">
             	<div class="col-md-12">
-                	<div class="section-title"><h2>Pricing Chart</h2></div>
+                	<div class="section-title"><h2>Rates</h2></div>
                     <h4>We offer a wide range of products to best cater to your advertising needs.</h4>
                 </div>
             </div>
