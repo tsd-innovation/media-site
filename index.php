@@ -18,7 +18,7 @@
 		button{margin: 0px 3px !important;}
 
 		.navbar-brand{color: #AC0000 !important;}
-		#newspaper-main{width: 100%;}
+		.newspaper-main{width: 100%;}
 		.formatted-element{margin: 32px 0; }
 		.page-section{min-height: 100%; padding-top: 70px;}
 		.section-title{border-bottom: 1px solid #666; margin-bottom: 10px;}
@@ -52,13 +52,15 @@
                     <li><a href = "#Advertising" class="page-scroll">Advertising</a></li>
                     <li><a href = "#Readership" class="page-scroll">Readership</a></li>
                     <li class="dropdown">
-                        <a href="#Newspaper" class="dropdown-toggle page-scroll" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Newspaper <span class="caret"></span></a>
+                        <a href="#Print" class="dropdown-toggle page-scroll" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Newspaper <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href = "#" class="page-scroll">Special Issues</a></li>
+                            <li><a href = "#" class="page-scroll">Regular Issues</a></li>
+                            <li><a href = "#" class="page-scroll">Magazine</a></li>
                             <li><a href = "#" class="page-scroll">Sizes</a></li>
                         </ul>
                     </li>
-                    <li><a href = "#Website" class="page-scroll">Website</a></li>
+                    <li><a href = "#Digital" class="page-scroll">Website</a></li>
                     <li><a href = "#Digests" class="page-scroll">Email Digests</a></li>
                     <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
                     <li><a href = "#Calendar" class="page-scroll">Publication Dates</a></li>
@@ -77,7 +79,7 @@
         	<div class="row">
                 <div class = "col-md-7">
                     <div id = "newspaper-image">
-                        <img id = "newspaper-main" src = "images/stanford-daily-newspaper.jpg" title = "The Stanford Daily" />
+                        <img class = "newspaper-main" src = "images/stanford-daily-newspaper.jpg" title = "The Stanford Daily" />
                     </div>
                 </div>
                 <div class = "col-md-5">
