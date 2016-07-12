@@ -63,7 +63,7 @@
                     <li><a href = "#Digital" class="page-scroll">Website</a></li>
                     <li><a href = "#Digests" class="page-scroll">Email Digests</a></li>
                     <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
-                    <li><a href = "#Calendar" class="page-scroll">Publication Dates</a></li>
+                    <li><a href = "#Publication Dates" class="page-scroll">Publication Dates</a></li>
                     <li><a href = "#Rates" class="page-scroll">Rates</a></li>
                     <li><a href = "#Magazine" class="page-scroll">Policies</a></li>
                 </ul>
