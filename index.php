@@ -80,7 +80,7 @@
         	<div class="row">
                 <div class = "col-md-7">
                     <div id = "newspaper-image">
-                        <img class = "newspaper-main" src = "images/stanford-daily-boehner.png" title = "The Stanford Daily" />
+                        <img class = "newspaper-main" src = "images/stanford-daily-boehner.jpg" title = "The Stanford Daily" />
                     </div>
                 </div>
                 <div class = "col-md-5">
