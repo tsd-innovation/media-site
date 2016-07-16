@@ -26,6 +26,7 @@
 		
 		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 2px 2px #888888;}
 		#sales-link{color: #F00; !important;}
+        #Readership{backtround: #AC0000;}
 
 	</style>
 
