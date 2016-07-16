@@ -14,6 +14,8 @@
     <style>
 		h1{font-size: 30pt !important;}
 		h4 strong{color: #AC0000; font-size: 18pt; font-weight: bold;}
+        .dark-background h4 strong {color: #FFFFFF;}
+        .dark-background h1 {color: #FFFFFF;}
 		
 		button{margin: 0px 3px !important;}
 
@@ -23,7 +25,7 @@
 		.page-section{min-height: 100%; padding-top: 70px;}
 		.section-title{border-bottom: 1px solid #666; margin-bottom: 10px;}
 		.norm-bold{font-weight: bold;}
-		
+
 		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 2px 2px #888888;}
 		#sales-link{color: #F00; !important;}
         #Readership{background: #AC0000;}
@@ -101,7 +103,7 @@
         	</div>
     	</div>
 	</section>
-    <section class = "page-section" id="Readership">
+    <section class = "page-section" id="Readership" class="dark-background">
     	<div class="container">
         	<div class="row">
             	<div class = "col-md-12">
