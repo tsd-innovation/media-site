@@ -25,7 +25,7 @@
 		.page-section{min-height: 100%; padding-top: 70px;}
 		.section-title{border-bottom: 1px solid #666; margin-bottom: 10px;}
 		.norm-bold{font-weight: bold;}
-        .dark-background{background: #AC0000; z-index: 998;}
+        .dark-background{background: #AC0000; z-index: 998; border-top: 5px solid #CCC; border-bottom: 5px solid #CCC; }
 
 		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 0px 4px -2px #888888; max-height: 95%; z-index: 100;}
 		#sales-link{color: #F00; !important;}
@@ -377,14 +377,14 @@
                         	<h4>
 								<p><span class="norm-bold">By Phone:</span></p>
                                 <p>(650) 721-5803</p>
-                                <p> &nbsp; </p>
+                                <p>&nbsp;  </p>
                             	<p><span class="norm-bold">By Email:</span></p>
                                 <p>Sales: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a><br />
                                 General Inquiries: <a href="mailTo:coo@stanforddaily.com">coo@stanforddaily.com</a></p>
-                             	<p> &nbsp; </p>
+                             	<p>&nbsp;  </p>
                               	<p><span class="norm-bold">By Mail:</span></p>
                                 <p>The Stanford Daily Publishing Corporation<br />456 Panama Mall<br />Stanford, CA 94305</p>
-                                <p> &nbsp; </p>  
+                                <p>&nbsp;  </p>  
                         	</p>
                         </div>
                     </div>
