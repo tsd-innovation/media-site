@@ -16,8 +16,8 @@
 		h4 strong{color: #AC0000; font-size: 18pt; font-weight: bold;}
         .dark-background h4 strong {color: #FFFFFF !important;}
         .dark-background h2 {color: #FFFFFF !important;}
-		.dark-background h3 {color: #AAA !important;}
-		.dark-background h4 {color: #AAA !important;}
+		.dark-background h3 {color: #FFFFFF !important;}
+		.dark-background h4 {color: #FFFFFF !important;}
 		
 		button{margin: 0px 3px !important;}
 
@@ -66,7 +66,7 @@
                             <li><a href = "#" class="page-scroll">Sizes</a></li>
                         </ul>
                     </li>
-                    <li><a href = "#Digital" class="page-scroll">Website</a></li>
+                    <li><a href = "#Digital" class="page-scroll">Digital</a></li>
                     <li><a href = "#Digests" class="page-scroll">Email Digests</a></li>
                     <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
                     <li><a href = "#Publication Dates" class="page-scroll">Publication Dates</a></li>
@@ -153,7 +153,7 @@
             </div>
         </div>
     </section>
-    <section class="page-section" id="Website">
+    <section class="page-section" id="Digital">
     	<div class="container">
         	<div class="row">
             	<div class="col-md-12">
