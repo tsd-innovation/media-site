@@ -16,8 +16,8 @@
 		h4 strong{color: #AC0000; font-size: 18pt; font-weight: bold;}
         .dark-background h4 strong {color: #FFFFFF !important;}
         .dark-background h2 {color: #FFFFFF !important;}
-		.dark-background h3 {color: #BBB !important;}
-		.dark-background h4 {color: #BBB !important;}
+		.dark-background h3 {color: #AAA !important;}
+		.dark-background h4 {color: #AAA !important;}
 		
 		button{margin: 0px 3px !important;}
 
