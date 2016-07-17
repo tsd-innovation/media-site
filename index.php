@@ -26,7 +26,7 @@
 		.section-title{border-bottom: 1px solid #666; margin-bottom: 10px;}
 		.norm-bold{font-weight: bold;}
 
-		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 2px 2px #888888;}
+		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 0px 2px 2px #888888;}
 		#sales-link{color: #F00; !important;}
         #Readership{background: #AC0000;}
 
