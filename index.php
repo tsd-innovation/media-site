@@ -15,20 +15,21 @@
 		h1{font-size: 30pt !important;}
 		h4 strong{color: #AC0000; font-size: 18pt; font-weight: bold;}
         .dark-background h4 strong {color: #FFFFFF !important;}
-        .dark-background h1 {color: #FFFFFF !important;}
+        .dark-background h2 {color: #FFFFFF !important;}
 		
 		button{margin: 0px 3px !important;}
 
 		.navbar-brand{color: #AC0000 !important;}
 		.newspaper-main{width: 100%;}
 		.formatted-element{margin: 32px 0; }
-		.page-section{min-height: 100%; padding-top: 70px;}
+		.page-section{min-height: 100%; padding-top: 30px;}
 		.section-title{border-bottom: 1px solid #666; margin-bottom: 10px;}
 		.norm-bold{font-weight: bold;}
         .dark-background{background: #AC0000; z-index: 998; border-top: 5px solid #CCC; border-bottom: 5px solid #CCC; }
 
 		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 0px 4px -2px #888888; max-height: 95%; z-index: 100;}
 		#sales-link{color: #F00; !important;}
+		#Advertising{padding-top: 70px;}
 
 	</style>
 
