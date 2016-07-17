@@ -25,10 +25,10 @@
 		.page-section{min-height: 100%; padding-top: 70px;}
 		.section-title{border-bottom: 1px solid #666; margin-bottom: 10px;}
 		.norm-bold{font-weight: bold;}
+        .dark-background{background: #AC0000; z-index: 998;}
 
-		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 0px 4px -2px #888888;}
+		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 0px 4px -2px #888888; max-height: 100%; z-index: 100;}
 		#sales-link{color: #F00; !important;}
-        #Readership{background: #AC0000;}
 
 	</style>
 
@@ -103,7 +103,7 @@
         	</div>
     	</div>
 	</section>
-    <section class = "page-section" id="Readership" class="dark-background">
+    <section class = "page-section dark-background" id="Readership">
     	<div class="container">
         	<div class="row">
             	<div class = "col-md-12">
