@@ -13,7 +13,7 @@
     <link href="css/simple-calendar.css" rel="stylesheet" />
     <style>
 		h1{font-size: 30pt !important;}
-		h4 strong{color: #AC0000; font-size: 18pt; font-weight: bold;}
+		h4 strong{color: red; font-size: 18pt; font-weight: bold;}
         .dark-background h4 strong {color: #FFFFFF !important;}
         .dark-background h2 {color: #FFFFFF !important;}
 		.dark-background h3 {color: #FFFFFF !important;}
