@@ -31,11 +31,12 @@
         .dark-background{position: relative; background: #AC0000; z-index: 998; /*border-top: 4px solid #CCC; border-bottom: 4px solid #CCC; */ }
 
 		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; z-index: 100; overflow-y: hidden;}
-		@media screen and (max-device-width: 700px){
+		@media screen and (max-device-width: 770px){
     		#newspaper-image{position: relative !important;}
 		}
 		#sales-link{color: #F00; !important;}
 		#Advertising{padding-top: 70px; position: relative;}
+		#rates-container{height: auto; overflow:auto;}
 
 	</style>
 
@@ -255,7 +256,7 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                	<div class="panel panel-primary">
+                	<div class="panel panel-primary" id="rates-container">
                     	<div class="panel-heading"><strong>Newspaper print rates</strong></div>
                        	<table class="table table-hover">
                         	<tr>
