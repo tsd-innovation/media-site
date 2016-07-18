@@ -29,7 +29,10 @@
 		.norm-bold{font-weight: bold;}
         .dark-background{position: relative; background: #AC0000; z-index: 998; /*border-top: 4px solid #CCC; border-bottom: 4px solid #CCC; */ }
 
-		#newspaper-image{position: relative; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; max-height: 95%; z-index: 100;}
+		#newspaper-image{position: relative; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; max-height: 94%; z-index: 100;}
+		@media screen and (max-device-width: 480px){
+    		$newspaper-image{height: 100% !important;}
+		}
 		#sales-link{color: #F00; !important;}
 		#Advertising{padding-top: 70px;}
 
@@ -47,9 +50,11 @@
     <nav class = "navbar navbar-default navbar-fixed-top">
     	<div class="container-fluid">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed btn-primary" data-toggle="collapse" data-target="#nav-links" aria-expanded="false">
-                    <span>Menu <span class="caret"></span></span>
-                </button>
+                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-links" aria-expanded="false">
+        			<span class="icon-bar"></span>
+        			<span class="icon-bar"></span>
+        			<span class="icon-bar"></span>
+      			</button>
                 <a class="navbar-brand" href="#">THE STANFORD DAILY</a>
             </div>
         
