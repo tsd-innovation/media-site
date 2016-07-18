@@ -22,6 +22,7 @@
 		button{margin: 0px 3px !important;}
 
 		.navbar-brand{color: #AC0000 !important;}
+		.navbar-toggle{margin-left: 3px; margin-top: 3px;}
 		.newspaper-main{width: 100%;}
 		.formatted-element{margin: 32px 0; }
 		.page-section{min-height: 100%; padding-top: 28px;}
