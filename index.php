@@ -27,9 +27,9 @@
 		.page-section{min-height: 100%; padding-top: 28px;}
 		.section-title{border-bottom: 1px solid #666; margin-bottom: 10px;}
 		.norm-bold{font-weight: bold;}
-        .dark-background{background: #AC0000; z-index: 998; /*border-top: 4px solid #CCC; border-bottom: 4px solid #CCC; */ }
+        .dark-background{position: relative; background: #AC0000; z-index: 998; /*border-top: 4px solid #CCC; border-bottom: 4px solid #CCC; */ }
 
-		#newspaper-image{width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; max-height: 95%; z-index: 100;}
+		#newspaper-image{position: relative; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; max-height: 95%; z-index: 100;}
 		#sales-link{color: #F00; !important;}
 		#Advertising{padding-top: 70px;}
 
