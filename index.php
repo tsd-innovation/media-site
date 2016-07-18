@@ -22,7 +22,7 @@
 		button{margin: 0px 3px !important;}
 
 		.navbar-brand{color: #AC0000 !important;}
-		.navbar-toggle{margin-left: 3px; margin-top: 3px;}
+		.navbar-toggle{margin-right: 3px; margin-top: 3px !important;}
 		.newspaper-main{width: 100%;}
 		.formatted-element{margin: 32px 0; }
 		.page-section{min-height: 100%; padding-top: 28px;}
@@ -30,12 +30,12 @@
 		.norm-bold{font-weight: bold;}
         .dark-background{position: relative; background: #AC0000; z-index: 998; /*border-top: 4px solid #CCC; border-bottom: 4px solid #CCC; */ }
 
-		#newspaper-image{position: relative; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; max-height: 94%; z-index: 100;}
+		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; max-height: 94%; z-index: 100; overflow: hidden;}
 		@media screen and (max-device-width: 480px){
     		$newspaper-image{height: 100% !important;}
 		}
 		#sales-link{color: #F00; !important;}
-		#Advertising{padding-top: 70px;}
+		#Advertising{padding-top: 70px; position: relative;}
 
 	</style>
 
