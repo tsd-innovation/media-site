@@ -30,8 +30,8 @@
 		.norm-bold{font-weight: bold;}
         .dark-background{position: relative; background: #AC0000; z-index: 998; /*border-top: 4px solid #CCC; border-bottom: 4px solid #CCC; */ }
 
-		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; z-index: 100; overflow: hidden;}
-		@media screen and (max-device-width: 500px){
+		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; z-index: 100; overflow-y: hidden;}
+		@media screen and (max-device-width: 700px){
     		#newspaper-image{position: relative !important;}
 		}
 		#sales-link{color: #F00; !important;}
