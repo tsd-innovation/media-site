@@ -38,7 +38,7 @@
 		#Advertising{padding-top: 70px; position: relative;}
 		#rates-container{height: auto; overflow:auto;}
 
-	</style>
+	</style>x
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -262,7 +262,7 @@
                         	<tr>
                             	<th>&nbsp;</th>
                                 <th>ASSU</th>
-                                <th>University</th>
+                                <th>School</th>
                                 <th>Local</th>
                                 <th>Non-Local</th>
                                 <th>National</th>
