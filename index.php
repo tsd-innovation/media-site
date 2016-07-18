@@ -31,11 +31,15 @@
         .dark-background{position: relative; background: #AC0000; z-index: 998; /*border-top: 4px solid #CCC; border-bottom: 4px solid #CCC; */ }
 
 		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; z-index: 100; overflow-y: hidden;}
+		
+		/*Fix to prevent newspaper from formatting incorrectly on ipads/iphones */
 		@media screen and (max-device-width: 770px){
     		#newspaper-image{position: relative !important;}
 		}
-		#sales-link{color: #F00; !important;}
+		#sales-link{color: #AC0000; !important;}
 		#Advertising{padding-top: 70px; position: relative;}
+		
+		/*Allows rates table to scroll on mobile devices*/
 		#rates-container{height: auto; overflow:auto;}
 
 	</style>x
@@ -256,82 +260,84 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                	<div class="panel panel-primary" id="rates-container">
+                	<div class="panel panel-primary">
                     	<div class="panel-heading"><strong>Newspaper print rates</strong></div>
-                       	<table class="table table-hover">
-                        	<tr>
-                            	<th>&nbsp;</th>
-                                <th>ASSU</th>
-                                <th>School</th>
-                                <th>Local</th>
-                                <th>Non-Local</th>
-                                <th>National</th>
-                            </tr>
-                         	<tr>
-                            	<td><strong>Column-inch rate</strong></td>
-                                <td>$6</td>
-                                <td>$13</td>
-                                <td>$14</td>
-                                <td>$16</td>
-                                <td>$19</td>
-                            </tr>
-                            <tr>
-                            	<td><strong>Full</strong></td>
-                                <td>$756</td>
-                                <td>$1,638</td>
-                                <td>$1,764</td>
-                                <td>$2,016</td>
-                                <td>$2,394</td>
-                            </tr>
-                            <tr>
-                            	<td><strong>Half</strong></td>
-                                <td>$378</td>
-                                <td>$819</td>
-                                <td>$882</td>
-                                <td>$1,008</td>
-                                <td>$1,197</td>
-                            </tr>
-                            <tr>
-                            	<td><strong>Quarter</strong></td>
-                                <td>$189</td>
-                                <td>$409.50</td>
-                                <td>$441</td>
-                                <td>$504</td>
-                                <td>$598.50</td>
-                            </tr>
-                            <tr>
-                            	<td><strong>Eighth</strong></td>
-                                <td>$90</td>
-                                <td>$195</td>
-                                <td>$210</td>
-                                <td>$240</td>
-                                <td>$285</td>
-                            </tr>
-                            <tr>
-                            	<td><strong>Sixteenth</strong></td>
-                                <td>$45</td>
-                                <td>$97.50</td>
-                                <td>$105</td>
-                                <td>$120</td>
-                                <td>$142.50</td>
-                            </tr>
-                            <tr>
-                            	<td><strong>Full color surcharge</strong></td>
-                                <td>$100</td>
-                                <td>$200</td>
-                                <td>$200</td>
-                                <td>$350</td>
-                                <td>$500</td>
-                            </tr>
-                            <tr>
-                            	<td><strong>Spot color surcharge</strong></td>
-                                <td>&nbsp;</td>
-                                <td>&nbsp;</td>
-                                <td>&nbsp;</td>
-                                <td>$200</td>
-                                <td>$250</td>
-                            </tr>
-                        </table>
+                        <div id="rates-container">
+                            <table class="table table-hover">
+                                <tr>
+                                    <th>&nbsp;</th>
+                                    <th>ASSU</th>
+                                    <th>School</th>
+                                    <th>Local</th>
+                                    <th>Non-Local</th>
+                                    <th>National</th>
+                                </tr>
+                                <tr>
+                                    <td><strong>Column-inch rate</strong></td>
+                                    <td>$6</td>
+                                    <td>$13</td>
+                                    <td>$14</td>
+                                    <td>$16</td>
+                                    <td>$19</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Full</strong></td>
+                                    <td>$756</td>
+                                    <td>$1,638</td>
+                                    <td>$1,764</td>
+                                    <td>$2,016</td>
+                                    <td>$2,394</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Half</strong></td>
+                                    <td>$378</td>
+                                    <td>$819</td>
+                                    <td>$882</td>
+                                    <td>$1,008</td>
+                                    <td>$1,197</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Quarter</strong></td>
+                                    <td>$189</td>
+                                    <td>$409.50</td>
+                                    <td>$441</td>
+                                    <td>$504</td>
+                                    <td>$598.50</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Eighth</strong></td>
+                                    <td>$90</td>
+                                    <td>$195</td>
+                                    <td>$210</td>
+                                    <td>$240</td>
+                                    <td>$285</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Sixteenth</strong></td>
+                                    <td>$45</td>
+                                    <td>$97.50</td>
+                                    <td>$105</td>
+                                    <td>$120</td>
+                                    <td>$142.50</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Full color surcharge</strong></td>
+                                    <td>$100</td>
+                                    <td>$200</td>
+                                    <td>$200</td>
+                                    <td>$350</td>
+                                    <td>$500</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Spot color surcharge</strong></td>
+                                    <td>&nbsp;</td>
+                                    <td>&nbsp;</td>
+                                    <td>&nbsp;</td>
+                                    <td>$200</td>
+                                    <td>$250</td>
+                                </tr>
+                            </table>
+                    	</div>
                     </div>
                 </div>
             </div>
