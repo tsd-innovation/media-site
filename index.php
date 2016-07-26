@@ -69,20 +69,18 @@
                     <li><a href = "#Advertising" class="page-scroll">Advertising</a></li>
                     <li><a href = "#Readership" class="page-scroll">Readership</a></li>
                     <li class="dropdown">
-                        <a href="#Print" class="dropdown-toggle page-scroll" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Newspaper <span class="caret"></span></a>
+                        <a class="dropdown-toggle page-scroll" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Publications <span class="caret"></span></a>
                         <ul class="dropdown-menu">
+                            <li><a href = "#Newspaper" class="page-scroll">Newspaper</a></li>
                             <li><a href = "#" class="page-scroll">Special Issues</a></li>
-                            <li><a href = "#" class="page-scroll">Regular Issues</a></li>
-                            <li><a href = "#" class="page-scroll">Magazine</a></li>
-                            <li><a href = "#" class="page-scroll">Sizes</a></li>
+                            <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
                         </ul>
                     </li>
                     <li><a href = "#Digital" class="page-scroll">Digital</a></li>
-                    <li><a href = "#Digests" class="page-scroll">Email Digests</a></li>
-                    <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
                     <li><a href = "#Publication Dates" class="page-scroll">Publication Dates</a></li>
                     <li><a href = "#Rates" class="page-scroll">Rates</a></li>
                     <li><a href = "#Magazine" class="page-scroll">Policies</a></li>
+                    <li><a href = "#Sizes" class="page-scroll">Sizes</a></li>
                 </ul>
                 <ul class = "nav navbar-nav navbar-right">
                     <li><a href = "#">Download Media Kit</a>
@@ -119,10 +117,8 @@
 	</section>
     <section class = "page-section dark-background" id="Readership">
     	<div class="container">
-        	<div class="row">
-            	<div class = "col-md-12">
-                    <div class="section-title"><h2>Readership</h2></div>
-                </div>
+        	<div class="page-header">
+            	<h2>Readership</h2>
             </div>
             <div class="row">
                 <div class = "col-md-4">
