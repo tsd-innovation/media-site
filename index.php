@@ -82,7 +82,7 @@
                     <li><a href = "#Magazine" class="page-scroll">Policies</a></li>
                     <li><a href = "#Sizes" class="page-scroll">Sizes</a></li>
                 </ul>
-                <ul class = "nav navbar-nav navbar-right visible-md-block visible-lg-block" id="action-links">
+                <ul class = "nav navbar-nav navbar-right visible-xs-block visible-lg-block" id="action-links">
                     <li><a href = "#">Download Media Kit</a>
                     <li><a id="sales-link" href = "#Contact" class="page-scroll">Contact Sales</a></li>
                 </ul>
