@@ -33,7 +33,7 @@
 		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; z-index: 100; overflow-y: hidden;}
 		
 		/*Fix to prevent newspaper from formatting incorrectly on ipads/iphones */
-		@media screen and (max-device-width: 770px){
+		@media screen and (max-device-width: 800px){
     		#newspaper-image{position: relative !important;}
 		}
 		#sales-link{color: #AC0000; !important;}
@@ -41,7 +41,7 @@
 		
 		/*Allows rates table to scroll on mobile devices*/
 		#rates-container{height: auto; overflow:auto;}
-
+		
 	</style>x
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -82,7 +82,7 @@
                     <li><a href = "#Magazine" class="page-scroll">Policies</a></li>
                     <li><a href = "#Sizes" class="page-scroll">Sizes</a></li>
                 </ul>
-                <ul class = "nav navbar-nav navbar-right">
+                <ul class = "nav navbar-nav navbar-right visible-md-block visible-lg-block" id="action-links">
                     <li><a href = "#">Download Media Kit</a>
                     <li><a id="sales-link" href = "#Contact" class="page-scroll">Contact Sales</a></li>
                 </ul>
