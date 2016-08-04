@@ -105,7 +105,7 @@
                     <div class = "formatted-element">
                         <h4>
                             <p>The Stanford Daily is the trusted news source for more than 7,000 undergraduates, 10,000 graduates, 12,000 faculty and staff and 210,000 alumni of the Stanford community.</p>
-                            <p>The businesses that they go to our the ones that are in our paper.</p>
+                            <p>The businesses that they go to are the ones that are in our paper.</p>
                         </h4>
                     </div>
                     <div class = "formatted-element">
