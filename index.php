@@ -32,6 +32,8 @@
 
 		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; z-index: 100; overflow-y: hidden;}
 		
+		#customer-type-dropdown{color: #999 !important;}
+		
 		/*Fix to prevent newspaper from formatting incorrectly on ipads/iphones */
 		@media screen and (max-device-width: 800px){
     		#newspaper-image{position: relative !important;}
@@ -61,7 +63,15 @@
         			<span class="icon-bar"></span>
         			<span class="icon-bar"></span>
       			</button>
-                <div class="navbar-brand"><a href="#">THE STANFORD DAILY</a> For Businesses <span class="caret"></span></div>
+                <div class="navbar-brand"><a href="#">THE STANFORD DAILY</a> 
+                	<div class="dropdown" id="customer-type-dropdown">
+                        <ul class="dropdown-menu">
+                            <li>For Businesses</li>
+                            <li>For University</li>
+                            <li>For Agencies</li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         
             <div class="collapse navbar-collapse" id="nav-links">
