@@ -1,3 +1,21 @@
+<?php
+	$role = "business";
+	
+	if (isset($_GET['role'])) {
+		$role = $_GET['role'];
+		
+		switch ($role) {
+			case "business":
+			case "university":
+			case "local":
+				break;
+			default:
+				header("Location: /?role=business");
+		}
+			
+	}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -54,11 +72,6 @@
     <![endif]-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script type="text/javascript">
-		$(document).ready(function(e) {
-            $(".dropdown-menu").on("click", "li", function() {
-				$('#role-button').text($(this).text());
-			});
-        });
 	</script>
   </head>
   <body>
@@ -72,11 +85,11 @@
       			</button>
                 <div class="navbar-brand"><a href="#">THE STANFORD DAILY</a> 
                 	<div class="dropdown" id="customer-type-dropdown">
-                        <button class="btn btn-default dropdown-toggle" id="role-button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">For Businesses <span class="caret"></span></button>
+                        <button class="btn btn-default dropdown-toggle" id="role-button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><?php echo ucfirst($role); ?><span class="caret"></span></button>
                         <ul class="dropdown-menu">
-                            <li>For Businesses</li>
-                            <li>For University</li>
-                            <li>For Agencies</li>
+                            <li><a href="/?role=business">For Businesses</a></li>
+                            <li><a href="/?role=university">For University</a></li>
+                            <li><a href="/?role=national">For Agencies</a></li>
                         </ul>
                     </div>
                 </div>
