@@ -53,6 +53,13 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script type="text/javascript">
+		$(document).ready(function(e) {
+            $(".dropdown-menu").on("click", "li", function() {
+				$('#role-button').text($(this).text());
+			});
+        });
+	</script>
   </head>
   <body>
     <nav class = "navbar navbar-default navbar-fixed-top">
@@ -65,6 +72,7 @@
       			</button>
                 <div class="navbar-brand"><a href="#">THE STANFORD DAILY</a> 
                 	<div class="dropdown" id="customer-type-dropdown">
+                        <button class="btn btn-default dropdown-toggle" id="role-button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">For Businesses <span class="caret"></span></button>
                         <ul class="dropdown-menu">
                             <li>For Businesses</li>
                             <li>For University</li>
