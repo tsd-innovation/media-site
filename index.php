@@ -51,6 +51,7 @@
 		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; z-index: 100; overflow-y: hidden;}
 		
 		#customer-type-dropdown{color: #999 !important;}
+		#role-button{border: 0; display: inline;}
 		
 		/*Fix to prevent newspaper from formatting incorrectly on ipads/iphones */
 		@media screen and (max-device-width: 800px){
@@ -85,7 +86,7 @@
       			</button>
                 <div class="navbar-brand"><a href="#">THE STANFORD DAILY</a> 
                 	<div class="dropdown" id="customer-type-dropdown">
-                        <button class="btn btn-default dropdown-toggle" id="role-button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><?php echo ucfirst($role); ?><span class="caret"></span></button>
+                        <button class="btn dropdown-toggle" id="role-button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">For <?php echo ucfirst($role); ?> <span class="caret"></span></button>
                         <ul class="dropdown-menu">
                             <li><a href="/?role=business">For Businesses</a></li>
                             <li><a href="/?role=university">For University</a></li>
