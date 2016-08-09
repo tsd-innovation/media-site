@@ -228,7 +228,7 @@
                 	<h4>
                     	<p>The Daily's email digests go out to thousands of readers each day. In the past year, over 100,000 articles have been opened directly from either the email or the sports digests.</p>
                         <p>Sponsorship of the email digest gives your business access to some of the Daily's most loyal readers who are deeply invested in the Stanford community.</p>
-                    	<p>Normal digest: <strong>$350/week</strong></p>
+                    	<p>Normal digest: <strong>$450/week</strong></p>
                         <p>Sports digest: <strong>$150/week</strong></p>
                     </h4>
                 </div>
@@ -269,12 +269,14 @@
                 </div>
            </div>
            <div class="row">
-           		<div class="col-md-6">
+           		<div class="col-md-7">
              		<img src="images/stanford-daily-publication-calendar.jpg" id="publication-calendar-image" title="Daily Publication Schedule" />
                 </div>
-                <div class="col-md-6">
-                	<div class="list-group">
-                    </div>
+                <div class="col-md-5">
+                	<h4>
+                    	<p>The Daily is released in print on each weekday during the first nine weeks of each quarter, once during the week before final exams each quarter and on the occasions of new student orientation and commencement.</p>
+                        <p>Online content is published year round.</p>
+                    </h4>
                 </div>
            </div>
         </div>
