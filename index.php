@@ -1,16 +1,16 @@
 <?php
-	$role = "business";
+	$role = "businesses";
 	
 	if (isset($_GET['role'])) {
 		$role = $_GET['role'];
 		
 		switch ($role) {
-			case "business":
+			case "businesses":
 			case "university":
-			case "local":
+			case "agencies":
 				break;
 			default:
-				header("Location: /?role=business");
+				header("Location: /?role=businesses");
 		}
 			
 	}
@@ -51,7 +51,8 @@
 		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; z-index: 100; overflow-y: hidden;}
 		
 		#customer-type-dropdown{color: #999 !important;}
-		#role-button{border: 0; display: inline;}
+		#role-button{border: 0; background: #FFF; display: inline;}
+		#publication-calendar-image{width: 100%;}
 		
 		/*Fix to prevent newspaper from formatting incorrectly on ipads/iphones */
 		@media screen and (max-device-width: 800px){
@@ -85,12 +86,12 @@
         			<span class="icon-bar"></span>
       			</button>
                 <div class="navbar-brand"><a href="#">THE STANFORD DAILY</a> 
-                	<div class="dropdown" id="customer-type-dropdown">
+                	<div class="dropdown" id="customer-type-dropdown" style="display: inline">
                         <button class="btn dropdown-toggle" id="role-button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">For <?php echo ucfirst($role); ?> <span class="caret"></span></button>
                         <ul class="dropdown-menu">
-                            <li><a href="/?role=business">For Businesses</a></li>
+                            <li><a href="/?role=businesses">For Businesses</a></li>
                             <li><a href="/?role=university">For University</a></li>
-                            <li><a href="/?role=national">For Agencies</a></li>
+                            <li><a href="/?role=agencies">For Agencies</a></li>
                         </ul>
                     </div>
                 </div>
@@ -268,10 +269,10 @@
                 </div>
            </div>
            <div class="row">
-           		<div class="col-md-4">
-             		<h4>Will use picture of Calendar from media handout.</h4>
+           		<div class="col-md-6">
+             		<img src="images/stanford-daily-publication-calender.jpg" id="publication-calendar-image" title="Daily Publication Schedule" />
                 </div>
-                <div class="col-md-7">
+                <div class="col-md-6">
                 	<div class="list-group">
                     </div>
                 </div>
