@@ -51,7 +51,7 @@
 		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; z-index: 100; overflow-y: hidden;}
 		
 		#customer-type-dropdown{color: #999 !important;}
-		#role-button{border: 0; background: #FFF; display: inline;}
+		#role-button{border: 0; background-color: transparent; outline: none; display: inline;}
 		#publication-calendar-image{width: 100%;}
 		
 		/*Fix to prevent newspaper from formatting incorrectly on ipads/iphones */
@@ -270,7 +270,7 @@
            </div>
            <div class="row">
            		<div class="col-md-6">
-             		<img src="images/stanford-daily-publication-calender.jpg" id="publication-calendar-image" title="Daily Publication Schedule" />
+             		<img src="images/stanford-daily-publication-calendar.jpg" id="publication-calendar-image" title="Daily Publication Schedule" />
                 </div>
                 <div class="col-md-6">
                 	<div class="list-group">
