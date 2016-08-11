@@ -350,6 +350,10 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Policies &amp; Submission Guidelines</h2></div>
+                </div>
+            </div>
+            <div class="row">
+            	<div class="col-md-7">
                     	<h3><strong>Print Artwork Submission</strong></h3>
                         <h4><p>All art must be sent via email to: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>.</p>
                         <p>The Daily accepts <strong>PDF</strong> and <strong>TIFF</strong> files.</p>
@@ -370,6 +374,54 @@
                         <p>The Daily accepts <strong>JPEG</strong> files.</p></h4>
                         <h3><strong>Terms and Conditions</strong></h3>
                         <h4>Please review the Terms and Conditions before advertising.</h4><button type="button" class="btn btn-bootstrap-default" data-toggle="modal" data-target="#policy-modal">Terms &amp; Conditions</button></h4>
+                </div>
+               	<div class="col-md-5">
+                	<div class="panel panel-primary">
+                    	<div class="panel-heading"><strong>Size Chart</div>
+                        <table class="table table-hover">
+                        	<tr>
+                            	<th><strong>Print</strong>
+                                <th>&nbsp;</td>
+                            </td>
+                        	<tr>
+                            	<td>Full</td>
+                                <td>10" X 21.3"</td>
+                            </tr>
+                            <tr>
+                            	<td>Half</td>
+                                <td>10" X 10.55"</td>
+                            </tr>
+                            <tr>
+                            	<td>Quarter</td>
+                                <td>4.917" X 10.55"</td>
+                            </tr>
+                            <tr>
+                            	<td>Eighth</td>
+                                <td>4.917" X 5.2"</td>
+                            </tr>
+                            <tr>
+                            	<td>Sixteenth</td>
+                                <td>4.917" X 2.5"</td>
+                            </tr>
+                            <tr>
+                            	<td>Banner</td>
+                                <td>10" X 2"</td>
+                            </tr>
+                            <tr>
+                            	<th>Digital</th>
+                                <th>&nbsp;</th>
+                            </tr>
+                            <tr>
+                            	<td>Leader</td>
+                                <td>Web: 720 X 90px<br />
+                               		Mobile: 320 X 50px</td>
+                            </tr>
+                            <tr>
+                            	<td>Sidebar</td>
+                                <td>300 X 250px</td>
+                            </tr>
+                        </table>
+                    </div>
                 </div>
             </div>
     	</div>
