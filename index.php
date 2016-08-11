@@ -511,6 +511,11 @@
     <div id="policy-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
   		<div class="modal-dialog modal-lg" role="document">
     		<div class="modal-content">
+            	<div class="modal-header">
+        			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        			<h4 class="modal-title">Modal title</h4>
+      			</div>
+                <div class="modal-body">
 				<h4><p><strong>The Fine Print</strong></p>
 				<p>(1) Advertising Placement
 The Stanford Daily Publishing Corporation (“The
@@ -621,7 +626,7 @@ omission occurs as outlined in “Limitation of Liability”,
 discounts and adjustments to bills will be
 based on the percentage the error detracts from
 the effectiveness of the total advertising message,
-as determined by the Advertising Manager.<p>
+as determined by the Advertising Manager.</p>
 <p>(10) Non-Compliance Enforcement
 If Advertiser places fewer than the minimum
 amount of advertisements and/or column-inches
@@ -654,6 +659,7 @@ contract. This contract cannot be modified except
 by written and endorsed amendment
 thereto. Paragraphs 3,5,7,8,9 and 10 shall survive
 the termination or cancellation of this contract.</p>
+				</div>
     		</div>
   		</div>
 	</div>
