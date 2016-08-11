@@ -106,8 +106,7 @@
                     <li><a href = "#Digital" class="page-scroll">Digital</a></li>
                     <li><a href = "#Publication Dates" class="page-scroll">Publication Dates</a></li>
                     <li><a href = "#Rates" class="page-scroll">Rates</a></li>
-                    <li><a href = "#Policies" class="page-scroll">Policies</a></li>
-                    <li><a href = "#Sizes" class="page-scroll">Sizes</a></li>
+                    <li><a href = "#Policies" class="page-scroll">Policies &amp; Submission</a></li>
                 </ul>
                 <ul class = "nav navbar-nav navbar-right visible-xs-block visible-lg-block" id="action-links">
                     <li><a href = "#">Download Media Kit</a>
@@ -372,7 +371,8 @@
                         <p>Illustrator, InDesign, Canvas, or Corel files must be exported as TIFF files and should meet all of the image and resolution standards mentioned above. The Stanford Daily does not accept PDFs with RGB or Indexed color images, page layout files, JPEG, PNG or GIF files for submission.</p>
            				<h3><strong>Web Artwork Submission</strong></h3>
                         <h4><p>All art must be sent via email to: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>.</p>
-                        <p>The Daily accepts <strong>JPEG</strong> files.</p></h4>
+                        <p>The Daily accepts <strong>JPEG</strong> files.</p>
+                        <p>For best campaign results, please submit banner ad artwork in both web and mobile dimensions.</p></h4>
                         <h3><strong>Terms and Conditions</strong></h3>
                         <h4>Please review the Terms and Conditions before advertising.</h4><button type="button" class="btn btn-bootstrap-default" data-toggle="modal" data-target="#policy-modal">Terms &amp; Conditions</button></h4>
                 </div>
@@ -437,7 +437,7 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                	<div class="panel panel-primary">
+                	<div class="panel panel-primary" id="size-chart">
                     	<div class="panel-heading"><strong>Newspaper print rates</strong></div>
                         <div id="rates-container">
                             <table class="table table-hover">
@@ -542,7 +542,7 @@
                     <h4>
                     	<p>Other sizes available! Just chose your height and number of column widths.</p>
                     </h4>
-                    <p><em><a href = "#">See size chart</a></em></p>
+                    <p><em><a href = "#Policies">See size chart</a></em></p>
                 </div>
                 <div class = "col-md-4">
                 	<h3><strong>Special issue sponsorship</strong></h3>
