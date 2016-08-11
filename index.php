@@ -105,7 +105,7 @@
                     <li><a href = "#Digital" class="page-scroll">Digital</a></li>
                     <li><a href = "#Publication Dates" class="page-scroll">Publication Dates</a></li>
                     <li><a href = "#Rates" class="page-scroll">Rates</a></li>
-                    <li><a href = "#Magazine" class="page-scroll">Policies</a></li>
+                    <li><a data-toggle="modal" data-target="#policy-modal">Policies</a></li>
                     <li><a href = "#Sizes" class="page-scroll">Sizes</a></li>
                 </ul>
                 <ul class = "nav navbar-nav navbar-right visible-xs-block visible-lg-block" id="action-links">
@@ -508,7 +508,7 @@
             </div>
         </div>
     </section>
-    <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+    <div id="policy-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
   		<div class="modal-dialog modal-lg" role="document">
     		<div class="modal-content">
 				<h4><p><strong>The Fine Print</strong></p>
