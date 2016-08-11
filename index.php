@@ -52,6 +52,7 @@
 		
 		#customer-type-dropdown{color: #999 !important;}
 		#role-button{border: 0; background-color: transparent; outline: none; display: inline;}
+		#role-button:hover{color: red;}
 		#publication-calendar-image{width: 100%;}
 		
 		/*Fix to prevent newspaper from formatting incorrectly on ipads/iphones */
@@ -185,7 +186,39 @@
             </div>
             <div class="row">
             	<div class="col-md-5">
-                	(Picture/possibly slider of newspaper scans)
+                	<div id="newspaper-carousel" class="carousel slide" data-ride="carousel">
+                    	<ol class="carousel-indicators">
+                        	<li data-target="#newspaper-carousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#newspaper-carousel" data-slide-to="1"></li>
+                        	<li data-target="#newspaper-carousel" data-slide-to="2"></li>
+                        	<li data-target="#newspaper-carousel" data-slide-to="3"></li>
+                        	<li data-target="#newspaper-carousel" data-slide-to="4"></li>
+                        </ol>
+                        
+                        <div class="carousel-inner" role="listbox">
+                        	<div class="item active">
+                            	<img src="images/stanford-daily-womens-water-polo.jpg" alt="Women&nbsp;s water polo wins national championship" />
+                            </div>
+                            
+                            <div class="item">
+                            	<img src="images/stanford-daily-admit-rate.jpg" alt="Stanford&nbsp;s admit rate drops to 4.69 percent" />
+                            </div>
+                            
+                            <div class="item">
+                            	<img src="images/stanford-daily-sae.jpg" alt="Investigation into Sigma Alpha Epsilon&nbsp;s loss of campus housing" />
+                            </div>
+                            
+                            <div class="item">
+                            	<img src="images/stanford-daily-runs-and-roses.jpg" alt="Stanford wins 2015 Rose Bowl Game" />
+                            </div>
+                            
+                            <div class="item">
+                            	<img src="images/stanford-daily-fossil-free.jpg" alt="Fossil Free Stanford rallies for divestment" />
+                            </div>
+                         
+                        </div>
+                        
+                    </div>
                 </div>
               	<div class="col-md-7">
                 	<h4>Eight thousand copies of The Stanford Daily are distributed each day.</h4>
