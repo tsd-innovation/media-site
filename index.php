@@ -49,6 +49,7 @@
         .dark-background{position: relative; background: #AC0000; z-index: 998; /*border-top: 4px solid #CCC; border-bottom: 4px solid #CCC; */ }
 
 		#newspaper-image{position: absolute; width: 80%; margin-left: 10%; margin-right: 10%; box-shadow: 4px 4px 4px -2px #888888; z-index: 100; overflow-y: hidden;}
+		#newspaper-carousel{box-shadow: 0 0 5px 2px #888888;}
 		
 		#customer-type-dropdown{color: #999 !important;}
 		#role-button{border: 0; background-color: transparent; outline: none; display: inline;}
@@ -155,22 +156,54 @@
             	<h2>Readership</h2>
             </div>
             <div class="row">
-                <div class = "col-md-4">
+                <div class = "col-md-3">
                 	<h3>Newspaper</h3>
                     <h4>
-                    	<p><strong class="num">8,000</strong> copies distributed on campus and in the Palo Alto area dates according to the publication calendar.</p>
+                    	<p><strong class="num">138</strong></p>
+                        <p>Issues published each year</p>
+                        <p>&nbsp;</p>
+                        <p><strong class="num">8,000</strong></p>
+                        <p>Total circulation</p>
+                        <p>&nbsp;</p>
+                    	<p><strong class="num">5,000</strong></p>
+                        <p>Copies distributed freely on the Stanford campus</p>
+                        <p>&nbsp</p>
+                        <p><strong class="num">3,000</strong></p>
+                        <p>Copies distributed in the surrounding communities of Palo Alto, Menlo Park, Mountain View, Atherton and Portola Valley</p>
                     </h4>
                 </div>
-                <div class = "col-md-4">
+                <div class = "col-md-3">
                 	<h3>Website</h3>
                     <h4>
-                    	<p>Averages over <strong class="num">200,000</strong> monthly visits from people interested in the Stanford community.</p>
+                    	<p><strong class="num">200,000+</strong></p>
+                        <p>Average monthly visits</p>
                     </h4>
                 </div>
-                <div class = "col-md-4">
-               		<h3>Email Digest</h3>
+                <div class = "col-md-3">
+               		<h3>Email Digests</h3>
                     <h4>
-                    	<p>Sent Daily to over <strong class="num">3500</strong> Stanford-related emails.</p>
+                    	<p><strong class="num">3500+</strong></p>
+                        <p>Subscribers to main email digest</p>
+                        <p>&nbsp;</p>
+                        <p><strong class="num"></strong></p>
+                        <p>Subscribers to sports email digest</p>
+                    </h4>
+                </div>
+                
+                <div class="col-md-3">
+                	<h3>Social Media</h3>
+                    <h4>
+                    	<p><strong class="num">7300+</strong></p>
+                        <p>Facebook likes (The Stanford Daily)</p>
+                        <p>&nbsp;</p>
+                        <p><strong class="num">9800+</strong></p>
+                        <p>Twitter followers (@Stanford_Daily)</p>
+                        <p>&nbsp;</p>
+                        <p><strong class="num">2700+</strong></p>
+                        <p>Twitter followers (@StanfordSports)</p>
+                        <p>&nbsp;</p>
+                        <p><strong class="num">500+</strong></p>
+                        <p>Instagram likes</p>
                     </h4>
                 </div>
                    
@@ -221,7 +254,8 @@
                     </div>
                 </div>
               	<div class="col-md-8">
-                	<h4>Eight thousand copies of The Stanford Daily are distributed each day.</h4>
+                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892.</p>
+                    <p>The Daily continues to serve unbiased student journalism to the Stanford campus and surrounding communities, distributing </h4>
                 </div>
             </div>
         </div>
@@ -239,7 +273,7 @@
                 </div>
                 <div class="col-md-5">
                 	<h4>
-                    	<p>The Stanford Daily's website is the portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm.</p>
+                    	<p>The Stanford Daily's website is your  portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm.</p>
                         <p>Banner ads <strong>$15</strong> CPM.
                     </h4>
                 </div>
@@ -259,7 +293,7 @@
                 </div>
                 <div class="col-md-7">
                 	<h4>
-                    	<p>The Daily's email digests go out to thousands of readers each day. In the past year, over 100,000 articles have been opened directly from either the email or the sports digests.</p>
+                    	<p>With more than 3,500 combined subscribers, the Daily's email digests are rapidly becoming the preferred method for our most loyal readers to access our latest content. In the past year, over 100,000 articles have been opened directly from either the email or the sports digest.</p>
                         <p>Sponsorship of the email digest gives your business access to some of the Daily's most loyal readers who are deeply invested in the Stanford community.</p>
                     	<p>Normal digest: <strong>$450/week</strong></p>
                         <p>Sports digest: <strong>$150/week</strong></p>
@@ -274,8 +308,8 @@
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Magazine</h2></div>
                     <h4>
-                    	<p>Starting in the 2016-17 school year, The Stanford Daily will publish 8 issues of a magazine to contain some of our highest quality long-form jornalism. The magazine is to be distributed on campus by students to places of high visibility and sent to our network of subscribers.</p>
-                        <p>Advertising is available both on a per-issue and a whole-series basis.</p>
+                    	<p>Starting in the 2016-17 school year, The Stanford Daily will publish 8 issues of a magazine to contain some of our highest quality long-form jornalism. The magazine is to be distributed on campus by students to places of high visibility and will be available as a premium digital experience to our network of alumni readers.</p>
+                        <p>Advertising in our magazine is available both on a per-issue and a entire-series basis.</p>
                     	<p><em>Please contact us at <a href="mailTo:advertising@stanford.edu">advertising@stanford.edu</a> for rates.</em></p>
                         <p>&nbsp;</p>
                     </h4>
@@ -471,7 +505,8 @@
                 </div>
                 <div class="col-md-6">
                 	<h3>We can help take your business to the next level.</h3>
-                    <h4>The Stanford Daily offers the expertise, opportunities and mechanisms for expanding your business to a significant new market. Please reach out to us with your ideas and objectives and we will help find the right solutions for your business.</h4>
+                    <h4><p>The Stanford Daily offers the expertise, opportunities and mechanisms for expanding your business to a significant new market.</p><p>Please reach out to us with your ideas and objectives and we will help find the right solutions for your business.</p>
+                    <p><em>The Stanford Daily offices are open from 9am to 5pm, Monday through Friday (excluding University holidays).</em></h4>
                 </div>
             </div>
         </div>
