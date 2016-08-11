@@ -159,33 +159,33 @@
                 <div class = "col-md-3">
                 	<h3>Newspaper</h3>
                     <h4>
-                    	<p><strong class="num">138</strong></p>
-                        <p>Issues published each year</p>
+                    	<p><strong class="num">138</strong><br />
+                        Free issues published each year</p>
                         <p>&nbsp;</p>
-                        <p><strong class="num">8,000</strong></p>
-                        <p>Total circulation</p>
+                        <p><strong class="num">8,000</strong><br />
+                        Total circulation</p>
                         <p>&nbsp;</p>
-                    	<p><strong class="num">5,000</strong></p>
-                        <p>Copies distributed freely on the Stanford campus</p>
+                    	<p><strong class="num">5,000</strong><br />
+                        Copies distributed on the Stanford campus</p>
                         <p>&nbsp</p>
-                        <p><strong class="num">3,000</strong></p>
-                        <p>Copies distributed in the surrounding communities of Palo Alto, Menlo Park, Mountain View, Atherton and Portola Valley</p>
+                        <p><strong class="num">3,000</strong><br />
+                        Copies distributed in the surrounding communities of Palo Alto, Menlo Park, Mountain View, Atherton and Portola Valley</p>
                     </h4>
                 </div>
                 <div class = "col-md-3">
                 	<h3>Website</h3>
                     <h4>
-                    	<p><strong class="num">200,000+</strong></p>
-                        <p>Average monthly visits</p>
+                    	<p><strong class="num">200,000+</strong><br />
+                        Average monthly visits</p>
                     </h4>
                 </div>
                 <div class = "col-md-3">
                		<h3>Email Digests</h3>
                     <h4>
-                    	<p><strong class="num">3500+</strong></p>
-                        <p>Subscribers to main email digest</p>
+                    	<p><strong class="num">3500+</strong><br />
+                        Subscribers to main email digest</p>
                         <p>&nbsp;</p>
-                        <p><strong class="num"></strong></p>
+                        <p><strong class="num"></strong><br />
                         <p>Subscribers to sports email digest</p>
                     </h4>
                 </div>
@@ -193,17 +193,17 @@
                 <div class="col-md-3">
                 	<h3>Social Media</h3>
                     <h4>
-                    	<p><strong class="num">7300+</strong></p>
+                    	<p><strong class="num">7300+</strong><br />
                         <p>Facebook likes (The Stanford Daily)</p>
                         <p>&nbsp;</p>
-                        <p><strong class="num">9800+</strong></p>
-                        <p>Twitter followers (@Stanford_Daily)</p>
+                        <p><strong class="num">9800+</strong><br />
+                        Twitter followers (@Stanford_Daily)</p>
                         <p>&nbsp;</p>
-                        <p><strong class="num">2700+</strong></p>
-                        <p>Twitter followers (@StanfordSports)</p>
+                        <p><strong class="num">2700+</strong><br />
+                        Twitter followers (@StanfordSports)</p>
                         <p>&nbsp;</p>
-                        <p><strong class="num">500+</strong></p>
-                        <p>Instagram likes</p>
+                        <p><strong class="num">500+</strong><br />
+                        Instagram likes</p>
                     </h4>
                 </div>
                    
