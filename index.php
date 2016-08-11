@@ -175,18 +175,24 @@
                 <div class = "col-md-3">
                 	<h3>Website</h3>
                     <h4>
-                    	<p><strong class="num">200,000+</strong><br />
-                        Average monthly visits</p>
+                    	<p><strong class="num">375,000+</strong><br />
+                        Average monthly pageviews</p>
+                        <p>&nbsp;</p>
+                        <p><strong class="num">700,000+</strong><br />
+                        Confirmed annual visits from San Francisco Bay Area</p>
                     </h4>
                 </div>
                 <div class = "col-md-3">
                		<h3>Email Digests</h3>
                     <h4>
-                    	<p><strong class="num">3500+</strong><br />
-                        Subscribers to main email digest</p>
+                    	<p><strong class="num">3000+</strong><br />
+                        Subscribers to email digest</p>
                         <p>&nbsp;</p>
-                        <p><strong class="num"></strong><br />
-                        <p>Subscribers to sports email digest</p>
+                        <p><strong class="num">35%</strong><br />
+                        Typical open rate, far above industry standard</p>
+                        <p>&nbsp;</p>
+                        <p><strong class="num">90,000+</strong><br />
+                        Articles opened from email digest, annually.</p>
                     </h4>
                 </div>
                 
@@ -203,7 +209,7 @@
                         Twitter followers (@StanfordSports)</p>
                         <p>&nbsp;</p>
                         <p><strong class="num">500+</strong><br />
-                        Instagram likes</p>
+                       Instagram likes</p>
                     </h4>
                 </div>
                    
