@@ -271,7 +271,7 @@
                 <div class="col-md-5">
                 	<h4>
                     	<p>The Stanford Daily's website is your  portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm.</p>
-                        <p>Banner ads <strong>$15</strong> CPM.
+                        <p>Banner ads <strong class="num">$15</strong> CPM.
                     </h4>
                 </div>
             </div>
@@ -292,8 +292,8 @@
                 	<h4>
                     	<p>With more than 3,500 combined subscribers, the Daily's email digests are rapidly becoming the preferred method for our most loyal readers to access our latest content. In the past year, over 100,000 articles have been opened directly from either the email or the sports digest.</p>
                         <p>Sponsorship of the email digest gives your business access to some of the Daily's most loyal readers who are deeply invested in the Stanford community.</p>
-                    	<p>Normal digest: <strong>$450/week</strong></p>
-                        <p>Sports digest: <strong>$150/week</strong></p>
+                    	<p>Normal digest: <strong class="num">$450/week</strong></p>
+                        <p>Sports digest: <strong class="num">$150/week</strong></p>
                     </h4>
                 </div>
             </div>
@@ -344,6 +344,35 @@
                 </div>
            </div>
         </div>
+    </section>
+    <section class="page-section" id="Policies">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                	<div class="section-title"><h2>Policies &amp; Submission Guidelines</h2></div>
+                    	<h3>Print Artwork Submission</h3>
+                        <h4><p>All art must be sent via email to: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>.</p>
+                        <p>The Daily accepts PDF and TIFF files.</p>
+                        <p>PDF files must be high-resolution, pressready files with the following specs:</p>
+						<ul>
+                        	<li>Acrobat 4.0 compatibility</li><li>All fonts embedded</li><li>All colors converted to CMYK.</li><li>CMYK or Grayscale image resolution set to 300ppi @ 100%</li><li>Bitmap images image resolution set to 600ppi @ 100%</li>
+                        </ul>
+						<p>TIFF or EPS TIFF files must meet the following requirements:</p>
+						<ul>
+                        	<li>CMYK or Grayscale image resolution set to 300ppi @ 100%</li>
+                            <li>Bitmap images image resolution set to 600ppi @ 100%</li>
+                            <li>Extra channels beyond CMYK must be deleted</li>
+                            <li>TIFF files should be saved with LZW compression turned on</li>
+                        </ul>
+                        <p>Illustrator, InDesign, Canvas, or Corel files must be exported as TIFF files and should meet all of the image and resolution standards mentioned above. The Stanford Daily does not accept PDFs with RGB or Indexed color images, page layout files, JPEG, PNG or GIF files for submission.</p>
+           				<h3>Web Artwork Submission</h3>
+                        <h4><p>All art must be sent via email to: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>.</p>
+                        <p>The Daily accepts JPEG files.</p></h4>
+                        <h3>Terms and Conditions</h3>
+                        <h4>Please review the Terms and Conditions before advertising.</h4><button type="button" class="btn btn-bootstrap-default" data-toggle="modal" data-target="#policy-modal">Terms &amp; Conditions</button></h4>
+                </div>
+            </div>
+    	</div>
     </section>
     <section class="page-section" id="Rates">
     	<div class="container">
@@ -442,7 +471,7 @@
                     <h4>Pay a <strong>5%</strong> premium to place an ad on Page 2, 3 or Back Cover (color required on Page 3 or Back Cover)</h4>
                     <h3><strong>Front page stickers</strong></h3>
                     <h4>
-                    	<p><strong>$600</strong></p>
+                    	<p><strong class="num">$600</strong></p>
                         <p>Ship inserts and stickers to:</p>
                         <p>Fricke Parks Press<br />33250 Transit Avenue, Union City, California, 94587</p>
                     </h4>
@@ -465,7 +494,7 @@
                 <div class = "col-md-4">
                 	<h3><strong>Special issue sponsorship</strong></h3>
                     <h4>
-                    	<p>All eyes will be on our <strong>Special Issues</strong>, which provide coverage of Stanford hot topics and exposure during campus special events.</p>
+                    	<p>All eyes will be on our <strong class="num">Special Issues</strong>, which provide coverage of Stanford hot topics and exposure during campus special events.</p>
                         <p>Sponsorships offer our most comprehensive and targeted ad packages to date, and we’re only selling one per Special Issue. We’ll even throw in a full color front page banner ad – the only opportunity to get your brand on our front page.</p>
                         <p><em>Please contact us for pricing information and exact package elements.</em></p>
                     </h4>
