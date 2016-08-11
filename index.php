@@ -185,8 +185,8 @@
                 </div>
             </div>
             <div class="row">
-            	<div class="col-md-5">
-                	<div id="newspaper-carousel" class="carousel slide" data-ride="carousel">
+            	<div class="col-md-4">
+                	<div id="newspaper-carousel" class="carousel slide" data-ride="carousel" data-interval="4000">
                     	<ol class="carousel-indicators">
                         	<li data-target="#newspaper-carousel" data-slide-to="0" class="active"></li>
                             <li data-target="#newspaper-carousel" data-slide-to="1"></li>
@@ -220,7 +220,7 @@
                         
                     </div>
                 </div>
-              	<div class="col-md-7">
+              	<div class="col-md-8">
                 	<h4>Eight thousand copies of The Stanford Daily are distributed each day.</h4>
                 </div>
             </div>
