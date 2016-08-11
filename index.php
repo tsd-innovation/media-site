@@ -105,7 +105,7 @@
                     <li><a href = "#Digital" class="page-scroll">Digital</a></li>
                     <li><a href = "#Publication Dates" class="page-scroll">Publication Dates</a></li>
                     <li><a href = "#Rates" class="page-scroll">Rates</a></li>
-                    <li><a data-toggle="modal" data-target="#policy-modal">Policies</a></li>
+                    <li><a href = "#Policies" class="page-scroll">Policies</a></li>
                     <li><a href = "#Sizes" class="page-scroll">Sizes</a></li>
                 </ul>
                 <ul class = "nav navbar-nav navbar-right visible-xs-block visible-lg-block" id="action-links">
@@ -350,9 +350,9 @@
         	<div class="row">
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Policies &amp; Submission Guidelines</h2></div>
-                    	<h3>Print Artwork Submission</h3>
+                    	<h3><strong>Print Artwork Submission</strong></h3>
                         <h4><p>All art must be sent via email to: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>.</p>
-                        <p>The Daily accepts PDF and TIFF files.</p>
+                        <p>The Daily accepts <strong>PDF</strong> and <strong>TIFF</strong> files.</p>
                         <p>PDF files must be high-resolution, pressready files with the following specs:</p>
 						<ul>
                         	<li>Acrobat 4.0 compatibility</li><li>All fonts embedded</li><li>All colors converted to CMYK.</li><li>CMYK or Grayscale image resolution set to 300ppi @ 100%</li><li>Bitmap images image resolution set to 600ppi @ 100%</li>
@@ -365,10 +365,10 @@
                             <li>TIFF files should be saved with LZW compression turned on</li>
                         </ul>
                         <p>Illustrator, InDesign, Canvas, or Corel files must be exported as TIFF files and should meet all of the image and resolution standards mentioned above. The Stanford Daily does not accept PDFs with RGB or Indexed color images, page layout files, JPEG, PNG or GIF files for submission.</p>
-           				<h3>Web Artwork Submission</h3>
+           				<h3><strong>Web Artwork Submission</strong></h3>
                         <h4><p>All art must be sent via email to: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>.</p>
-                        <p>The Daily accepts JPEG files.</p></h4>
-                        <h3>Terms and Conditions</h3>
+                        <p>The Daily accepts <strong>JPEG</strong> files.</p></h4>
+                        <h3><strong>Terms and Conditions</strong></h3>
                         <h4>Please review the Terms and Conditions before advertising.</h4><button type="button" class="btn btn-bootstrap-default" data-toggle="modal" data-target="#policy-modal">Terms &amp; Conditions</button></h4>
                 </div>
             </div>
