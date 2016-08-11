@@ -31,8 +31,8 @@
     <link href="css/simple-calendar.css" rel="stylesheet" />
     <style>
 		h1{font-size: 30pt !important;}
-		h4 strong{color: #AC0000; font-size: 18pt; font-weight: bold;}
-        .dark-background h4 strong {color: #000 !important;}
+		strong.num{color: #AC0000; font-size: 18pt; font-weight: bold;}
+        .dark-background strong.num {color: #000 !important;}
         .dark-background h2 {color: #FFFFFF !important;}
 		.dark-background h3 {color: #FFFFFF !important;}
 		.dark-background h4 {color: #FFFFFF !important;}
@@ -513,11 +513,11 @@
     		<div class="modal-content">
             	<div class="modal-header">
         			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        			<h4 class="modal-title">Modal title</h4>
+        			<h4 class="modal-title">Terms and Conditions</h4>
       			</div>
                 <div class="modal-body">
-				<h4><p><strong>The Fine Print</strong></p>
-				<p>(1) Advertising Placement
+				<h4>
+				<p><strong>(1) Advertising Placement</strong>
 The Stanford Daily Publishing Corporation (“The
 Daily”) will guarantee placement of advertising
 for advertisements placed on page 2, page 3 and
@@ -531,7 +531,7 @@ possible on a first come first serve basis. The
 Daily will not guarantee placement for advertisements
 except as stated above and/or under the
 discretion of the Advertising Manager.</p>
-<p>(2) Deadlines
+<p><strong>(2) Deadlines</strong>
 The deadline to reserve advertising space, including
 artwork submission, is 5 p.m. on the third
 business day prior to the date of publication. Special
@@ -546,12 +546,12 @@ resubmit the artwork. If no response or new artwork
 from the Advertiser is received prior to
 deadline, the regular design fee of $50 per ad will
 be automatically incurred by Advertiser.</p>
-<p>(3) Cancellation of Advertisement
+<p><strong>(3) Cancellation of Advertisement</strong>
 Cancellation of advertising after the space reservation
 deadlines, as defined in paragraph (2)
 above, will result in a charge equal to the cost of
 the cancelled advertisement.</p>
-<p>(4) Limitation of Liability
+<p><strong>(4) Limitation of Liability</strong>
 The Daily shall not be liable to Advertiser for any
 error except to the extent that the error (a) materially
 interferes with the purpose of Advertiser
@@ -565,7 +565,7 @@ liability, if any, is limited to the purchase price of
 the first incorrect advertisement only. The Daily
 is not responsible for incorrect copy submitted
 by Advertiser.</p>
-<p>(5) Content
+<p><strong>(5) Content</strong>
 The Daily will not publish any advertisement
 whose contents may tend to incite violence, may
 be obscene or libelous, or may cast aspersions
@@ -577,7 +577,7 @@ its sole discretion for any reason or no reason.
 Any advertisement having the appearance of editorial
 material may be identified as “Paid Advertising”
 at The Daily’s sole discretion.</p>
-<p>(6) Digital Fulfillment
+<p><strong>(6) Digital Fulfillment</strong>
 The Daily will make every effort to fulfill purchased
 impressions and will extend a campaign
 until fulfillment. However, in the case of an unfulfilled
@@ -585,7 +585,7 @@ campaign with a time-sensitive end date
 where extension is not preferable, we may offer
 a make-good only at the discretion of the Advertising
 Manager.</p>
-<p>(7) Defense and Indemnification
+<p><strong>(7) Defense and Indemnification</strong>
 The tender of advertising shall constitute an undertaking
 by Advertiser to defend and indemnify
 The Daily and its officers, directors, agents, and employees
@@ -594,7 +594,7 @@ including attorney’s fees and court costs, arising
 from any and all claims for libel, copyright infringement,
 or any other claim resulting from publication
 of Advertiser’s advertisement for The Daily.</p>
-<p>(8) Credit Accounts
+<p><strong>(8) Credit Accounts</strong>
 Advertisers may establish a credit account with
 The Daily by submitting a credit application.
 Credit is granted at the sole discretion of The
@@ -614,7 +614,7 @@ and adjustments to bills will be based on the percentage
 the error detracts from the effectiveness
 of the total advertising message, as determined
 by the Advertising Manager.</p>
-<p>(9) New Advertisers
+<p><strong>(9) New Advertisers</strong>
 Prior to the approval of a credit application from
 an Advertiser, advance payment is required for
 all advertising purchases. The daily accepts Visa,
@@ -627,7 +627,7 @@ discounts and adjustments to bills will be
 based on the percentage the error detracts from
 the effectiveness of the total advertising message,
 as determined by the Advertising Manager.</p>
-<p>(10) Non-Compliance Enforcement
+<p><strong>(10) Non-Compliance Enforcement</strong>
 If Advertiser places fewer than the minimum
 amount of advertisements and/or column-inches
 contracted by June 30 of the indicated year, Advertiser
@@ -641,7 +641,7 @@ brought only in the Superior Court for the
 county of Santa Clara, California. This contract
 is governed by California law (other than its
 choice of law principles).</p>
-<p>(11) Severability; No Waiver
+<p><strong>(11) Severability; No Waiver</strong>
 If any provision of this contract is held invalid or
 unenforceable, such holding shall not affect the
 remainder of this contract. The failure of either
@@ -650,7 +650,7 @@ term of this contract, or in any right in respect
 thereof, shall not be a waiver of such provision,
 term or right or in any way affect the validity of
 this contract.</p>
-<p>(12) Sole and Exclusive Contract
+<p><strong>(12) Sole and Exclusive Contract</strong>
 This is the sole and exclusive contract between
 Advertiser and The Daily establishing bulk advertising
 rates and terms for bulk advertising in the
