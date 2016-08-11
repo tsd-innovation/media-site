@@ -55,6 +55,7 @@
 		#role-button{border: 0; background-color: transparent; outline: none; display: inline;}
 		#role-button:hover{color: red;}
 		#publication-calendar-image{width: 100%;}
+		#size-chart{margin-top: 8px;}
 		
 		/*Fix to prevent newspaper from formatting incorrectly on ipads/iphones */
 		@media screen and (max-device-width: 800px){
@@ -377,11 +378,11 @@
                 </div>
                	<div class="col-md-5">
                 	<div class="panel panel-primary">
-                    	<div class="panel-heading"><strong>Size Chart</div>
+                    	<div id="size-chart" class="panel-heading"><strong>Size Chart</div>
                         <table class="table table-hover">
-                        	<tr>
-                            	<th><strong>Print</strong>
-                                <th>&nbsp;</td>
+                        	<tr class="active">
+                            	<th><strong>Print</strong></th>
+                                <th>&nbsp;</th>
                             </td>
                         	<tr>
                             	<td>Full</td>
@@ -407,8 +408,8 @@
                             	<td>Banner</td>
                                 <td>10" X 2"</td>
                             </tr>
-                            <tr>
-                            	<th>Digital</th>
+                            <tr class="active">
+                            	<th><strong>Digital</strong></th>
                                 <th>&nbsp;</th>
                             </tr>
                             <tr>
