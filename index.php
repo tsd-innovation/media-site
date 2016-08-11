@@ -87,16 +87,7 @@
         			<span class="icon-bar"></span>
         			<span class="icon-bar"></span>
       			</button>
-                <div class="navbar-brand"><a href="#">THE STANFORD DAILY</a> 
-                	<div class="dropdown" id="customer-type-dropdown" style="display: inline">
-                        <button class="btn dropdown-toggle" id="role-button" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">For <?php echo ucfirst($role); ?> <span class="caret"></span></button>
-                        <ul class="dropdown-menu">
-                            <li><a href="/?role=businesses">For Businesses</a></li>
-                            <li><a href="/?role=university">For University</a></li>
-                            <li><a href="/?role=agencies">For Agencies</a></li>
-                        </ul>
-                    </div>
-                </div>
+                <div class="navbar-brand"><a href="#">THE STANFORD DAILY</a></div>
             </div>
         
             <div class="collapse navbar-collapse" id="nav-links">
