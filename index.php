@@ -582,7 +582,8 @@
                                 <p>&nbsp;  </p>
                             	<p><span class="norm-bold">By Email:</span></p>
                                 <p>Sales: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a><br />
-                                General Inquiries: <a href="mailTo:coo@stanforddaily.com">coo@stanforddaily.com</a></p>
+                                General Inquiries: <a href="mailTo:coo@stanforddaily.com">coo@stanforddaily.com</a><br />
+                                Editorial Inquiries: <a href="mailTo:eic@stanforddaily.com">eic@stanforddaily.com</a></p>
                              	<p>&nbsp;  </p>
                               	<p><span class="norm-bold">By Mail:</span></p>
                                 <p>The Stanford Daily Publishing Corporation<br />456 Panama Mall<br />Stanford, CA 94305</p>
