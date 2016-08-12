@@ -104,9 +104,9 @@
                         </ul>
                     </li>
                     <li><a href = "#Digital" class="page-scroll">Digital</a></li>
-                    <li><a href = "#Publication Dates" class="page-scroll">Publication Dates</a></li>
-                    <li><a href = "#Rates" class="page-scroll">Rates</a></li>
+                    <li><a href = "#Calendar" class="page-scroll">Publication Dates</a></li>
                     <li><a href = "#Policies" class="page-scroll">Policies &amp; Submission</a></li>
+                    <li><a href = "#Rates" class="page-scroll">Rates</a></li>
                 </ul>
                 <ul class = "nav navbar-nav navbar-right visible-xs-block visible-lg-block" id="action-links">
                     <li><a href = "#">Download Media Kit</a>
@@ -251,8 +251,12 @@
                     </div>
                 </div>
               	<div class="col-md-8">
-                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892.</p>
-                    <p>The Daily continues to serve unbiased student journalism to the Stanford campus and surrounding communities, distributing </h4>
+                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892. For nearly 125 years, students, faculty and alumns have trusted the Daily to update them on the latest happenings within one of the world&nbsp;s most prestigious schools.</p>
+                    <p>The Daily continues to serve unbiased student journalism to the Stanford campus and surrounding communities while providing educational opportunities to its editorial and business staffers.</p></h4>
+                    <h3>Speical Issues</h3>
+                    <h4><p>The Daily publishes special editions of the newspaper on various important dates throughout the school year. These issues are packed with in-depth feature articles and high quality photographs about some of the most important breaking news topics on the Farm.</p>
+                    <p>For a full list of special issues, please visit our <a href="#Calendar">publication calendar</a>.</p>
+                  	</h4>
                 </div>
             </div>
         </div>
@@ -271,7 +275,10 @@
                 <div class="col-md-5">
                 	<h4>
                     	<p>The Stanford Daily's website is your  portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm.</p>
-                        <p>Banner ads <strong class="num">$15</strong> CPM.
+                        <p>Our website features one leaderboard ad and one sidebar ad available for purchase. Web ads can complement print ads by appealing to different demographics and reaching members of the Stanford community who aren&nbsp;t within the reach of the Palo Alto campus.</p>
+                        <p>All web ads start at <strong class="num">$15</strong> CPM.</p>
+                        <h3>Web sponsorship opportunities</h3>
+                        <p>The Daily has a number of online contests and series available for special sponsorship. Please contact <a href="mailTo: coo@stanforddaily.com">coo@stanforddaily.com</a> if you wish to learn more about sponsoring these products.</p>
                     </h4>
                 </div>
             </div>
@@ -521,7 +528,7 @@
             <div class = "row">
             	<div class = "col-md-4">
                 	<h3><strong>Premium placement</strong></h3>
-                    <h4>Pay a <strong>5%</strong> premium to place an ad on Page 2, 3 or Back Cover (color required on Page 3 or Back Cover)</h4>
+                    <h4>Pay a <strong>10%</strong> premium to place an ad on Page 2, 3 or Back Cover (color required on Page 3 and Back Cover)</h4>
                     <h3><strong>Front page stickers</strong></h3>
                     <h4>
                     	<p><strong class="num">$600</strong></p>
@@ -739,7 +746,7 @@ rates and terms for bulk advertising in the
 Stanford Daily newspaper during the term of the
 contract. This contract cannot be modified except
 by written and endorsed amendment
-thereto. Paragraphs 3,5,7,8,9 and 10 shall survive
+thereto. Paragraphs 3,5,8,9,10 and 11 shall survive
 the termination or cancellation of this contract.</p>
 				</div>
     		</div>
