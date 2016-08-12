@@ -295,7 +295,7 @@
             </div>
             <div class="row">
             	<div class="col-md-5">
-                	<img src="images/stanford-daily-digest.jpg" title="Stanford Daily email digest" alt="Stanford Daily email digest" />
+                	<img src="images/stanford-daily-digest.jpg" title="Stanford Daily email digest" alt="Stanford Daily email digest" style="max-width: 100%" />
                 </div>
                 <div class="col-md-7">
                 	<h4>
