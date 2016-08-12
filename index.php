@@ -135,7 +135,7 @@
                         </h4>
                     </div>
                     <div class = "formatted-element">
-                        <button type="button" class = "btn btn-bootstrap-danger btn-large">Contact Sales</button><button type="button" class = "btn btn-bootstrap-default btn-large">Download Media Kit</button>
+                        <a href="#Contact" class="page-scroll"><button type="button" class = "btn btn-bootstrap-danger btn-large">Contact Sales</button></a><button type="button" class = "btn btn-bootstrap-default btn-large">Download Media Kit</button>
                     </div>
                 </div>
         	</div>
@@ -270,7 +270,7 @@
             </div>
             <div class="row">
             	<div class="col-md-7">
-                	<img src="images/stanford-daily-website.jpg" title="The Stanford Daily&#39;s website" style="max-width: 100%;"/>
+                	<img src="images/stanford-daily-homepage.jpg" title="The Stanford Daily&#39;s website" style="max-width: 100%;"/>
                 </div>
                 <div class="col-md-5">
                 	<h4>
