@@ -255,7 +255,7 @@
                     <p>The Daily continues to serve unbiased student journalism to the Stanford campus and surrounding communities while providing educational opportunities to its editorial and business staffers.</p></h4>
                     <h3>Speical Issues</h3>
                     <h4><p>The Daily publishes special editions of the newspaper on various important dates throughout the school year. These issues are packed with in-depth feature articles and high quality photographs about some of the most important breaking news topics on the Farm.</p>
-                    <p>For a full list of special issues, please visit our <a href="#Calendar">publication calendar</a>.</p>
+                    <p>For a full list of special issues, please visit our <a href="#Calendar" class="page-scroll">publication calendar</a>.</p>
                   	</h4>
                 </div>
             </div>
@@ -277,7 +277,9 @@
                     	<p>The Stanford Daily's website is your  portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm.</p>
                         <p>Our website features one leaderboard ad and one sidebar ad available for purchase. Web ads can complement print ads by appealing to different demographics and reaching members of the Stanford community who aren&nbsp;t within the reach of the Palo Alto campus.</p>
                         <p>All web ads start at <strong class="num">$15</strong> CPM.</p>
-                        <h3>Web sponsorship opportunities</h3>
+                    </h4>
+                    <h3>Web sponsorship opportunities</h3>
+                    <h4>
                         <p>The Daily has a number of online contests and series available for special sponsorship. Please contact <a href="mailTo: coo@stanforddaily.com">coo@stanforddaily.com</a> if you wish to learn more about sponsoring these products.</p>
                     </h4>
                 </div>
@@ -362,7 +364,7 @@
             <div class="row">
             	<div class="col-md-7">
                     	<h3><strong>Print Artwork Submission</strong></h3>
-                        <h4><p>All art must be sent via email to: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>.</p>
+                        <h5><p>All art must be sent via email to: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>.</p>
                         <p>The Daily accepts <strong>PDF</strong> and <strong>TIFF</strong> files.</p>
                         <p>PDF files must be high-resolution, pressready files with the following specs:</p>
 						<ul>
@@ -375,13 +377,13 @@
                             <li>Extra channels beyond CMYK must be deleted</li>
                             <li>TIFF files should be saved with LZW compression turned on</li>
                         </ul>
-                        <p>Illustrator, InDesign, Canvas, or Corel files must be exported as TIFF files and should meet all of the image and resolution standards mentioned above. The Stanford Daily does not accept PDFs with RGB or Indexed color images, page layout files, JPEG, PNG or GIF files for submission.</p>
+                        <p>Illustrator, InDesign, Canvas, or Corel files must be exported as TIFF files and should meet all of the image and resolution standards mentioned above. The Stanford Daily does not accept PDFs with RGB or Indexed color images, page layout files, JPEG, PNG or GIF files for submission.</p></h5>
            				<h3><strong>Web Artwork Submission</strong></h3>
-                        <h4><p>All art must be sent via email to: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>.</p>
+                        <h5><p>All art must be sent via email to: <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a>.</p>
                         <p>The Daily accepts <strong>JPEG</strong> files.</p>
-                        <p>For best campaign results, please submit banner ad artwork in both web and mobile dimensions.</p></h4>
+                        <p>For best campaign results, please submit banner ad artwork in both web and mobile dimensions.</p></h5>
                         <h3><strong>Terms and Conditions</strong></h3>
-                        <h4>Please review the Terms and Conditions before advertising.</h4><button type="button" class="btn btn-bootstrap-default" data-toggle="modal" data-target="#policy-modal">Terms &amp; Conditions</button></h4>
+                        <h5>Please review the Terms and Conditions before advertising.</h4><button type="button" class="btn btn-bootstrap-default" data-toggle="modal" data-target="#policy-modal">Terms &amp; Conditions</button></h5>
                 </div>
                	<div class="col-md-5">
                 	<div class="panel panel-primary">
@@ -549,7 +551,7 @@
                     <h4>
                     	<p>Other sizes available! Just chose your height and number of column widths.</p>
                     </h4>
-                    <p><em><a href = "#Policies">See size chart</a></em></p>
+                    <p><em><a href = "#Policies" class="page-scroll">See size chart</a></em></p>
                 </div>
                 <div class = "col-md-4">
                 	<h3><strong>Special issue sponsorship</strong></h3>
