@@ -386,8 +386,8 @@
                         <h4>Please review the Terms and Conditions before advertising.</h4><button type="button" class="btn btn-bootstrap-default" data-toggle="modal" data-target="#policy-modal">Terms &amp; Conditions</button></h4>
                 </div>
                	<div class="col-md-5">
-                	<div class="panel panel-primary">
-                    	<div id="size-chart" class="panel-heading"><strong>Size Chart</div>
+                	<div id="size-chart" class="panel panel-primary">
+                    	<div class="panel-heading"><strong>Size Chart</div>
                         <table class="table table-hover">
                         	<tr class="active">
                             	<th><strong>Print</strong></th>
