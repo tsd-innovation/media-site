@@ -99,11 +99,16 @@
                         <a class="dropdown-toggle page-scroll" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Publications <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href = "#Newspaper" class="page-scroll">Newspaper</a></li>
-                            <li><a href = "#" class="page-scroll">Special Issues</a></li>
                             <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
                         </ul>
                     </li>
-                    <li><a href = "#Digital" class="page-scroll">Digital</a></li>
+                    <li class="dropdown">
+                    	<a class="dropdown-toggle page-scroll" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Digital <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                    		<li><a href = "#Website" class="page-scroll">Website</a></li>
+                            <li><a href = "#Digests" class="page-scroll">Email Digests</a></li>
+                        </ul>
+                    </li>
                     <li><a href = "#Calendar" class="page-scroll">Publication Dates</a></li>
                     <li><a href = "#Policies" class="page-scroll">Policies &amp; Submission</a></li>
                     <li><a href = "#Rates" class="page-scroll">Rates</a></li>
@@ -261,7 +266,7 @@
             </div>
         </div>
     </section>
-    <section class="page-section" id="Digital">
+    <section class="page-section" id="Website">
     	<div class="container">
         	<div class="row">
             	<div class="col-md-12">
@@ -392,7 +397,7 @@
                         	<tr class="active">
                             	<th><strong>Print</strong></th>
                                 <th>&nbsp;</th>
-                            </td>
+                            </tr>
                         	<tr>
                             	<td>Full</td>
                                 <td>10" X 21.3"</td>
@@ -450,8 +455,8 @@
                     	<div class="panel-heading"><strong>Newspaper print rates</strong></div>
                         <div id="rates-container">
                             <table class="table table-hover">
-                                <tr>
-                                    <th>&nbsp;</th>
+                                <tr class="active">
+                                    <th>Organization Type</th>
                                     <th>ASSU</th>
                                     <th>School</th>
                                     <th>Local</th>
@@ -506,21 +511,21 @@
                                     <td>$120</td>
                                     <td>$142.50</td>
                                 </tr>
-                                <tr>
-                                    <td><strong>Full color surcharge</strong></td>
-                                    <td>$100</td>
-                                    <td>$200</td>
-                                    <td>$200</td>
-                                    <td>$350</td>
-                                    <td>$500</td>
+                                <tr class="active">
+                                    <th>&nbsp;</th>
+                                    <th>$100</th>
+                                    <th>$200</th>
+                                    <th>$200</th>
+                                    <th>$350</th>
+                                    <th>$500</th>
                                 </tr>
                                 <tr>
-                                    <td><strong>Spot color surcharge</strong></td>
-                                    <td>&nbsp;</td>
-                                    <td>&nbsp;</td>
-                                    <td>&nbsp;</td>
+                                    <td><strong>Color surcharge</strong></td>
+                                    <td>$100</td>
                                     <td>$200</td>
-                                    <td>$250</td>
+                                    <td>$300</td>
+                                    <td>$450</td>
+                                    <td>$500</td>
                                 </tr>
                             </table>
                     	</div>
