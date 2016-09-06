@@ -30,6 +30,9 @@
     <link href="css/buttons.css" rel="stylesheet" />
     <link href="css/simple-calendar.css" rel="stylesheet" />
     <style>
+		a{color: #AC0000 !important;}
+		a:visited{color: #AC0000 !important;}
+	
 		h1{font-size: 30pt !important;}
 		strong.num{color: #AC0000; font-size: 18pt; font-weight: bold;}
         .dark-background strong.num {color: #000 !important;}
