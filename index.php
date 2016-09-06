@@ -175,7 +175,7 @@
                         Average monthly pageviews</p>
                         <p>&nbsp;</p>
                         <p><strong class="num">700,000+</strong><br />
-                        Confirmed annual visits from San Francisco Bay Area</p>
+                        Confirmed annual visits from the San Francisco Bay Area</p>
                     </h4>
                 </div>
                 <div class = "col-md-3">
@@ -256,10 +256,10 @@
                     </div>
                 </div>
               	<div class="col-md-8">
-                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892. For nearly 125 years, students, faculty and alumns have trusted the Daily to update them on the latest happenings within one of the world&nbsp;s most prestigious schools.</p>
-                    <p>The Daily continues to serve unbiased student journalism to the Stanford campus and surrounding communities while providing educational opportunities to its editorial and business staffers.</p></h4>
+                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892. For nearly 125 years, students, faculty and alumns have trusted the Daily to update them on the latest news and events at one of the world&nbsp;s most prestigious schools.</p>
+                    <p>The Daily continues to serve unbiased student journalism to the Stanford campus while providing educational opportunities to its editorial and business staffers. The newspaper is also deeply engrained into the surrounding communities and is freely distributed at dozens of locations in the Palo Alto area.</p></h4>
                     <h3>Speical Issues</h3>
-                    <h4><p>The Daily publishes special editions of the newspaper on various important dates throughout the school year. These issues are packed with in-depth feature articles and high quality photographs about some of the most important breaking news topics on the Farm.</p>
+                    <h4><p>The Daily's special issues cover some of the most important events on campus each year. From the back-to-school edition and football issues in the fall to the commencement issue each spring, special issues come packed with feature content that captures the full attention of the Stanford community.</p>
                     <p>For a full list of special issues, please visit our <a href="#Calendar" class="page-scroll">publication calendar</a>.</p>
                   	</h4>
                 </div>
@@ -279,13 +279,13 @@
                 </div>
                 <div class="col-md-5">
                 	<h4>
-                    	<p>The Stanford Daily's website is your  portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm.</p>
-                        <p>Our website features one leaderboard ad and one sidebar ad available for purchase. Web ads can complement print ads by appealing to different demographics and reaching members of the Stanford community who aren&nbsp;t within the reach of the Palo Alto campus.</p>
-                        <p>All web ads start at <strong class="num">$15</strong> CPM.</p>
+                    	<p>The Stanford Daily's <a href="stanforddaily.com">website</a> is the portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm. All articles from the print edition of the Daily appear on stanforddaily.com, along with a number of digital exclusives like premium video content and in-depth  </p>
+                        <p>Our website features one leaderboard ad and one sidebar ad available for purchase. Web ads complement print ads by appealing to different demographics and reaching members of the Stanford community who aren&nbsp;t within the reach of the Palo Alto campus.</p>
+                        <p>Rates for our web ads start at <strong class="num">$15</strong> CPM.</p>
                     </h4>
                     <h3>Web sponsorship opportunities</h3>
                     <h4>
-                        <p>The Daily has a number of online contests and series available for special sponsorship. Please contact <a href="mailTo: coo@stanforddaily.com">coo@stanforddaily.com</a> if you wish to learn more about sponsoring these products.</p>
+                        <p>The Daily has a number of online contests and series available for special sponsorship. Please contact <a href="mailTo: coo@stanforddaily.com">coo@stanforddaily.com</a> if you wish to learn more about these products.</p>
                     </h4>
                 </div>
             </div>
@@ -304,8 +304,8 @@
                 </div>
                 <div class="col-md-7">
                 	<h4>
-                    	<p>With more than 3,500 combined subscribers, the Daily's email digests are rapidly becoming the preferred method for our most loyal readers to access our latest content. In the past year, over 100,000 articles have been opened directly from either the email or the sports digest.</p>
-                        <p>Sponsorship of the email digest gives your business access to some of the Daily's most loyal readers who are deeply invested in the Stanford community.</p>
+                    	<p>With more than 3,000 combined subscribers, the Daily's email digests are rapidly becoming the preferred method for our most loyal readers to access our latest content. In the past year, more than 100,000 articles have been opened directly from either the email or the sports digest.</p>
+                        <p>Sponsorship of the email digest gives your business access to a group of active individuals who are deeply invested in the Stanford community.</p>
                     	<p>Normal digest: <strong class="num">$450/week</strong></p>
                         <p>Sports digest: <strong class="num">$150/week</strong></p>
                     </h4>
@@ -319,7 +319,7 @@
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Magazine</h2></div>
                     <h4>
-                    	<p>Starting in the 2016-17 school year, The Stanford Daily will publish 8 issues of a magazine to contain some of our highest quality long-form jornalism. The magazine is to be distributed on campus by students to places of high visibility and will be available as a premium digital experience to our network of alumni readers.</p>
+                    	<p>Starting in the 2016-17 academic year, The Stanford Daily will publish 8 issues of a magazine to contain some of our highest quality long-form jornalism. The magazine is to be distributed on campus by students to places of high visibility and will be available as a premium digital experience to our network of alumni readers.</p>
                         <p>Advertising in our magazine is available both on a per-issue and a entire-series basis.</p>
                     	<p><em>Please contact us at <a href="mailTo:advertising@stanford.edu">advertising@stanford.edu</a> for rates.</em></p>
                         <p>&nbsp;</p>
@@ -352,8 +352,8 @@
                 </div>
                 <div class="col-md-5">
                 	<h4>
-                    	<p>The Daily is released in print on each weekday during the first nine weeks of each quarter, once during the week before final exams each quarter and on the occasions of new student orientation and commencement.</p>
-                        <p>Online content is published year round.</p>
+                    	<p>The Daily is released in print on each weekday during the first nine weeks of each quarter, once during the week before final exams each quarter and on the occasions of new student orientation and commencement. Print advertising opportunities are available in each issue.</p>
+                        <p>Online content is published continuously, with web and email advertising opportunities available year-round.</p>
                     </h4>
                 </div>
            </div>
@@ -600,7 +600,7 @@
                 <div class="col-md-6">
                 	<h3>We can help take your business to the next level.</h3>
                     <h4><p>The Stanford Daily offers the expertise, opportunities and mechanisms for expanding your business to a significant new market.</p><p>Please reach out to us with your ideas and objectives and we will help find the right solutions for your business.</p>
-                    <p><em>The Stanford Daily offices are open from 9am to 5pm, Monday through Friday (excluding University holidays).</em></h4>
+                    <p><em>The Stanford Daily offices are open from 9:30am to 5pm, Monday through Friday (excluding University holidays).</em></h4>
                 </div>
             </div>
         </div>
