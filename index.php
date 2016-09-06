@@ -512,12 +512,12 @@
                                     <td>$142.50</td>
                                 </tr>
                                 <tr class="active">
-                                    <th>&nbsp;</th>
-                                    <th>$100</th>
-                                    <th>$200</th>
-                                    <th>$200</th>
-                                    <th>$350</th>
-                                    <th>$500</th>
+                                    <th>Extras</th>
+                                    <th>Sixteenth</th>
+                                    <th>Eighth</th>
+                                    <th>Quarter</th>
+                                    <th>Half</th>
+                                    <th>Full</th>
                                 </tr>
                                 <tr>
                                     <td><strong>Color surcharge</strong></td>
