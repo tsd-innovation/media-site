@@ -100,14 +100,14 @@
                     <li><a href = "#Advertising" class="page-scroll">Advertising</a></li>
                     <li><a href = "#Readership" class="page-scroll">Readership</a></li>
                     <li class="dropdown">
-                        <a class="dropdown-toggle page-scroll" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Publications <span class="caret"></span></a>
+                        <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Publications <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href = "#Newspaper" class="page-scroll">Newspaper</a></li>
                             <li><a href = "#Magazine" class="page-scroll">Magazine</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
-                    	<a class="dropdown-toggle page-scroll" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Digital <span class="caret"></span></a>
+                    	<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Digital <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                     		<li><a href = "#Website" class="page-scroll">Website</a></li>
                             <li><a href = "#Digests" class="page-scroll">Email Digests</a></li>
