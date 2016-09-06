@@ -31,6 +31,7 @@
     <link href="css/simple-calendar.css" rel="stylesheet" />
     <style>
 		a{color: #AC0000 !important;}
+		.nav a{color: #666 !important;}
 		a:visited{color: #AC0000 !important;}
 	
 		h1{font-size: 30pt !important;}
