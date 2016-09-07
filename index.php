@@ -139,7 +139,7 @@
                     </div>
                     <div class = "formatted-element">
                         <h4>
-                            <p>The Stanford Daily is the trusted news source for more than 7,000 undergraduates, 10,000 graduates, 12,000 faculty and staff and 210,000 alumni of the Stanford community.</p>
+                            <p>The Stanford Daily is the trusted news source for the Stanford community and its 7,000 undergraduates, 10,000 graduates, 12,000 faculty and staff and 210,000 alumni.</p>
                             <p>The businesses that they go to are the ones that are in our paper.</p>
                         </h4>
                     </div>
@@ -260,10 +260,10 @@
                     </div>
                 </div>
               	<div class="col-md-8">
-                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892. For nearly 125 years, students, faculty and alumns have trusted the Daily to update them on the latest news and events at one of the world&nbsp;s most prestigious schools.</p>
-                    <p>The Daily continues to serve unbiased student journalism to the Stanford campus while providing educational opportunities to its editorial and business staffers. The newspaper is also deeply engrained into the surrounding communities and is freely distributed at dozens of locations in the Palo Alto area.</p></h4>
+                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892. For nearly 125 years, students, faculty and alumnni have trusted the Daily to update them on the latest news and events at one of the world&nbsp;s most prestigious schools.</p>
+                    <p>The Daily continues to serve unbiased student journalism to the Stanford campus while providing educational opportunities to its editorial and business staffers. The newspaper is also deeply ingrained into the surrounding communities and is freely distributed at dozens of locations in the Palo Alto area.</p></h4>
                     <h3>Speical Issues</h3>
-                    <h4><p>The Daily's special issues cover some of the most important events on campus each year. From the back-to-school edition and football issues in the fall to the commencement issue each spring, special issues come packed with feature content that captures the full attention of the Stanford community.</p>
+                    <h4><p>The Daily's special issues cover some of the most important events on campus each year. From the back-to-school edition and football issues in the fall to the commencement issue each spring, special issues come packed with feature content that captures the full attention of our readers.</p>
                     <p>For a full list of special issues, please visit our <a href="#Calendar" class="page-scroll">publication calendar</a>.</p>
                   	</h4>
                 </div>
@@ -284,12 +284,12 @@
                 <div class="col-md-5">
                 	<h4>
                     	<p>The Stanford Daily's <a href="stanforddaily.com">website</a> is the portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm. All articles from the print edition of the Daily appear on stanforddaily.com, along with a number of digital exclusives like premium video content and in-depth  </p>
-                        <p>Our website features one leaderboard ad and one sidebar ad available for purchase. Web ads complement print ads by appealing to different demographics and reaching members of the Stanford community who aren&nbsp;t within the reach of the Palo Alto campus.</p>
-                        <p>Rates for our web ads start at <strong class="num">$15</strong> CPM.</p>
+                        <p>Web ads complement print ads by appealing to different demographics and reaching additional members of the Stanford community who aren&nbsp;t within the reach of the Palo Alto campus. Students frequently use our webiste as well, and hundreds of  have taken an action based on one of our web ads.</p>
+                        <p>Our website features one leaderboard ad and one sidebar ad available for purchase. Rates for these ads start at <strong class="num">$15</strong> CPM.</p>
                     </h4>
                     <h3>Web sponsorship opportunities</h3>
                     <h4>
-                        <p>The Daily has a number of online contests and series available for special sponsorship. Please contact <a href="mailTo: coo@stanforddaily.com">coo@stanforddaily.com</a> if you wish to learn more about these products.</p>
+                        <p>The Daily occasionally runs online contests and series with special sponsorship opportunities available. Please contact <a href="mailTo: coo@stanforddaily.com">coo@stanforddaily.com</a> if you wish to learn more about these products.</p>
                     </h4>
                 </div>
             </div>
@@ -308,7 +308,7 @@
                 </div>
                 <div class="col-md-7">
                 	<h4>
-                    	<p>With more than 3,000 combined subscribers, the Daily's email digests are rapidly becoming the preferred method for our most loyal readers to access our latest content. In the past year, more than 100,000 articles have been opened directly from either the email or the sports digest.</p>
+                    	<p>With more than 3,000 combined subscribers, the Daily's email digests are rapidly becoming the preferred method for our most loyal readers to access our latest content. In the past year, more than 100,000 articles on our website have been opened directly from either the email or the sports digest.</p>
                         <p>Sponsorship of the email digest gives your business access to a group of active individuals who are deeply invested in the Stanford community.</p>
                     	<p>Normal digest: <strong class="num">$450/week</strong></p>
                         <p>Sports digest: <strong class="num">$150/week</strong></p>
@@ -323,14 +323,14 @@
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Magazine</h2></div>
                     <h4>
-                    	<p>Starting in the 2016-17 academic year, The Stanford Daily will publish 8 issues of a magazine to contain some of our highest quality long-form jornalism. The magazine is to be distributed on campus by students to places of high visibility and will be available as a premium digital experience to our network of alumni readers.</p>
+                    	<p>Starting in the 2016-17 academic year, The Stanford Daily will publish 8 issues of a magazine to contain some of our signature long-form jornalism. The magazine is to be distributed on campus by students to places of high visibility and will be available as a premium digital experience to our network of alumni readers.</p>
                         <p>Advertising in our magazine is available both on a per-issue and a entire-series basis.</p>
                     	<p><em>Please contact us at <a href="mailTo:advertising@stanford.edu">advertising@stanford.edu</a> for rates.</em></p>
                         <p>&nbsp;</p>
                     </h4>
                     <div class="list-group" style="max-width: 45%;">
                         <button type="button" class="list-group-item"><strong>Magazine publication dates</strong></button>
-                    	<button type="button" class="list-group-item">Fall issue 1: 9/19</button>
+                    	<button type="button" class="list-group-item">Fall issue 1: 9/30</button>
                      	<button type="button" class="list-group-item">Fall issue 2: 10/21</button>
                     	<button type="button" class="list-group-item">Fall issue 3: 11/18</button>
                     	<button type="button" class="list-group-item">Winter issue 1: 1/13</button>
