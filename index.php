@@ -237,15 +237,15 @@
                         
                         <div class="carousel-inner" role="listbox">
                         	<div class="item active">
-                            	<img src="images/stanford-daily-womens-water-polo.jpg" alt="Women&nbsp;s water polo wins national championship" />
+                            	<img src="images/stanford-daily-womens-water-polo.jpg" alt="Women&#39;s water polo wins national championship" />
                             </div>
                             
                             <div class="item">
-                            	<img src="images/stanford-daily-admit-rate.jpg" alt="Stanford&nbsp;s admit rate drops to 4.69 percent" />
+                            	<img src="images/stanford-daily-admit-rate.jpg" alt="Stanford&#39;s admit rate drops to 4.69 percent" />
                             </div>
                             
                             <div class="item">
-                            	<img src="images/stanford-daily-sae.jpg" alt="Investigation into Sigma Alpha Epsilon&nbsp;s loss of campus housing" />
+                            	<img src="images/stanford-daily-sae.jpg" alt="Investigation into Sigma Alpha Epsilon&#39;s loss of campus housing" />
                             </div>
                             
                             <div class="item">
@@ -261,8 +261,8 @@
                     </div>
                 </div>
               	<div class="col-md-8">
-                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892. For nearly 125 years, students, faculty and alumnni have trusted the Daily to update them on the latest news and events at one of the world&nbsp;s most prestigious schools.</p>
-                    <p>The Daily continues to serve unbiased student journalism to the Stanford campus while providing educational opportunities to its editorial and business staffers. The newspaper is also deeply ingrained into the surrounding communities and is freely distributed at dozens of locations in the Palo Alto area.</p></h4>
+                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892. For nearly 125 years, students, faculty and alumnni have trusted the Daily to update them on the latest news and events at one of the world&#39;s most prestigious schools.</p>
+                    <p>The Daily continues to serve unbiased student journalism to the Stanford campus while providing educational opportunities to its editorial and business staffers. The newspaper is also deeply ingrained in the surrounding communities and is freely distributed at dozens of locations in the Palo Alto area.</p></h4>
                     <h3>Speical Issues</h3>
                     <h4><p>The Daily's special issues cover some of the most important events on campus each year. From the back-to-school edition and football issues in the fall to the commencement issue each spring, special issues come packed with feature content that captures the full attention of our readers.</p>
                     <p>For a full list of special issues, please visit our <a href="#Calendar" class="page-scroll">publication calendar</a>.</p>
@@ -285,7 +285,7 @@
                 <div class="col-md-5">
                 	<h4>
                     	<p>The Stanford Daily's <a href="stanforddaily.com">website</a> is the portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm. All articles from the print edition of the Daily appear on stanforddaily.com, along with a number of digital exclusives like premium video content and web-only blog posts.</p>
-                        <p>Web ads complement print ads by appealing to different demographics and reaching additional members of the Stanford community who aren&nbsp;t within the reach of the Palo Alto campus. Students frequently use our webiste as well, and hundreds of  have taken an action based on one of our web ads.</p>
+                        <p>Web ads complement print ads by appealing to different demographics and reaching additional members of the Stanford community who aren&#39;t within the reach of the Palo Alto campus. Students frequently use our webiste as well, and hundreds of  have taken an action based off our web ads.</p>
                         <p>Our website features one leaderboard ad and one sidebar ad available for purchase. Rates for these ads start at <strong class="num">$15</strong> CPM.</p>
                     </h4>
                     <h3>Web sponsorship opportunities</h3>
