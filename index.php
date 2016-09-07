@@ -33,7 +33,6 @@
 		.page-section a{color: #AC0000 !important;}
 		.page-section a:visited{color: #AC0000 !important;}
 		.nav a:hover{color: #AC0000 !important;}
-		.nav a:visited{color: #AC0000 !important;}
 		.nav a:focus{color: #AC0000 !important;}
 	
 		h1{font-size: 30pt !important;}
