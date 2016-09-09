@@ -284,7 +284,7 @@
                 </div>
                 <div class="col-md-5">
                 	<h4>
-                    	<p>The Stanford Daily's <a href="stanforddaily.com">website</a> is the portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm. All articles from the print edition of The Daily appear on stanforddaily.com, along with a number of digital exclusives like premium video content and web-only blog posts.</p>
+                    	<p>The Stanford Daily's <a href="http://stanforddaily.com">website</a> is the portal for more than 200,000 visitors each month to view our comprehensive coverage of the Farm. All articles from the print edition of The Daily appear on stanforddaily.com, along with a number of digital exclusives like premium video content and web-only blog posts.</p>
                         <p>Web ads complement print ads by appealing to different demographics and reaching additional members of the Stanford community who aren&#39;t within the reach of the Palo Alto campus. Students frequently use our website as well, and hundreds have taken actions based on our web ads.</p>
                         <p>Our website features leaderboard and sidebar ad space available for purchase. Rates for these ads start at <strong class="num">$15</strong> CPM.</p>
                     </h4>
