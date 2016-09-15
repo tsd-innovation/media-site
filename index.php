@@ -332,8 +332,8 @@
                     <div class="list-group" style="max-width: 45%;">
                         <button type="button" class="list-group-item"><strong>Magazine publication dates</strong></button>
                     	<button type="button" class="list-group-item">Fall issue 1: 9/30</button>
-                     	<button type="button" class="list-group-item">Fall issue 2: 10/21</button>
-                    	<button type="button" class="list-group-item">Fall issue 3: 11/18</button>
+                     	<button type="button" class="list-group-item">Fall issue 2: 11/4</button>
+                    	<button type="button" class="list-group-item">Fall issue 3: 12/9</button>
                     	<button type="button" class="list-group-item">Winter issue 1: 1/13</button>
                     	<button type="button" class="list-group-item">Winter issue 2: 2/24</button>
                     	<button type="button" class="list-group-item">Spring issue 1: 4/7</button>
