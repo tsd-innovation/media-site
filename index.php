@@ -261,7 +261,7 @@
                     </div>
                 </div>
               	<div class="col-md-8">
-                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892. For nearly 125 years, students, faculty and alumni have trusted the Daily to update them on the latest news and events at one of the world&#39;s most prestigious schools.</p>
+                	<h4><p>The Stanford Daily has been a fixture of Stanford University since it originally launched as a small pamphlet known as The Daily Palo Alto in 1892. For nearly 125 years, students, faculty and alumni have trusted The Daily to update them on the latest news and events at one of the world&#39;s most prestigious schools.</p>
                     <p>The Daily continues to serve unbiased student journalism to the Stanford campus while providing educational opportunities to its editorial and business staffers. The newspaper is also deeply ingrained in the surrounding communities and is freely distributed at dozens of locations in the Palo Alto area.</p></h4>
                     <h3>Special Issues</h3>
                     <h4><p>The Daily's Special Issues cover some of the most important events on campus each year. From the Back-to-School edition and football issues in the fall to the Commencement Issue each spring, Special Issues come packed with feature content that captures the full attention of our readers.</p>
@@ -309,7 +309,7 @@
                 </div>
                 <div class="col-md-7">
                 	<h4>
-                    	<p>With more than 3,000 combined subscribers, the Daily's email digests are rapidly becoming the preferred method for our most loyal readers to access our latest content. In the past year, more than 100,000 articles on our website have been opened directly from either the email or the sports digest.</p>
+                    	<p>With more than 3,000 combined subscribers, The Daily's email digests are rapidly becoming the preferred method for our most loyal readers to access our latest content. In the past year, more than 100,000 articles on our website have been opened directly from either the regular email digest or the sports digest.</p>
                         <p>Sponsorship of the email digest gives your business access to a group of active individuals who are deeply invested in the Stanford community.</p>
                     	<p>Normal digest: <strong class="num">$450/week</strong></p>
                         <p>Sports digest: <strong class="num">$150/week</strong></p>
@@ -324,7 +324,7 @@
             	<div class="col-md-12">
                 	<div class="section-title"><h2>Magazine</h2></div>
                     <h4>
-                    	<p>Started in the 2016-17 academic year, The Stanford Daily publishes 8 issues of a magazine containing some of our signature long-form journalism. The magazine is distributed on campus by students to places of high visibility and will be available as a premium digital experience to our network of alumni readers.</p>
+                    	<p>The Stanford Daily Magazine began in the 2016-17 academic year and publishes 8 issues that contain some of our signature long-form journalism. The magazine is distributed on campus by students to places of high visibility and will be available as a premium digital experience to our network of alumni readers.</p>
                         <p>Advertising in our magazine is available on a per-issue and on an entire-series basis.</p>
                     	<p><em>Please contact us at <a href="mailTo:advertising@stanforddaily.com">advertising@stanforddaily.com</a> for rates.</em></p>
                         <p>&nbsp;</p>
@@ -540,7 +540,7 @@
             <div class = "row">
             	<div class = "col-md-4">
                 	<h3><strong>Premium placement</strong></h3>
-                    <h4>Pay a <strong>10%</strong> premium to place an ad on Page 2, 3 or back cover (color required on Page 3 and Back Cover)</h4>
+                    <h4>Pay a <strong>10%</strong> premium to place an ad on Page 2, 3 or Back Cover (color required on Page 3 and Back Cover)</h4>
                     <h3><strong>Inserts/front page stickers</strong></h3>
                     <h4>
                     	<p><strong class="num">$600</strong></p>
@@ -566,7 +566,7 @@
                 <div class = "col-md-4">
                 	<h3><strong>Special issue sponsorship</strong></h3>
                     <h4>
-                    	<p>All eyes will be on our <strong class="num">Special Issues</strong>, which provide coverage of Stanford hot topics and exposure during campus special events.</p>
+                    	<p>All eyes will be on our <strong class="num">Special Issues</strong>, which provide coverage of Stanford&#39;s hot topics and exposure during campus special events.</p>
                         <p>Sponsorships offer our most comprehensive and targeted ad packages to date, and we’re only selling one per Special Issue. We’ll even throw in a full-color front-page banner ad – the only opportunity to get your brand on our front page.</p>
                         <p><em>Please contact us for pricing information and exact package elements.</em></p>
                     </h4>
@@ -604,7 +604,7 @@
                 </div>
                 <div class="col-md-6">
                 	<h3>We can help take your business to the next level.</h3>
-                    <h4><p>The Stanford Daily offers the expertise, opportunities and mechanisms for expanding your business to a significant new market.</p><p>Please reach out to us with your ideas and objectives and we will help find the right solutions for your business.</p>
+                    <h4><p>The Stanford Daily offers the expertise, opportunities and mechanisms for expanding your business to a significant new market.</p><p>Please reach out to us with your ideas and objectives, and we will help find the right solutions for your business.</p>
                     <p><em>The Stanford Daily offices are open from 9:30 a.m. to 5 p.m., Monday through Friday (excluding University holidays).</em></h4>
                 </div>
             </div>
