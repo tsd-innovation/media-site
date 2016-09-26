@@ -34,6 +34,8 @@
 		.page-section a:visited{color: #AC0000 !important;}
 		.nav a:hover{color: #AC0000 !important;}
 		.nav a:focus{color: #AC0000 !important;}
+		
+		a.list-group-item{color: #666 !important;}
 	
 		h1{font-size: 30pt !important;}
 		strong.num{color: #AC0000; font-size: 18pt; font-weight: bold;}
