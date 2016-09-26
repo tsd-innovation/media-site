@@ -330,15 +330,15 @@
                         <p>&nbsp;</p>
                     </h4>
                     <div class="list-group" style="max-width: 45%;">
-                        <button type="button" class="list-group-item"><strong>Magazine publication dates</strong></button>
-                    	<button type="button" class="list-group-item">Fall issue 1: 9/30</button>
-                     	<button type="button" class="list-group-item">Fall issue 2: 11/4</button>
-                    	<button type="button" class="list-group-item">Fall issue 3: 12/9</button>
-                    	<button type="button" class="list-group-item">Winter issue 1: 1/13</button>
-                    	<button type="button" class="list-group-item">Winter issue 2: 2/24</button>
-                    	<button type="button" class="list-group-item">Spring issue 1: 4/7</button>
-                    	<button type="button" class="list-group-item">Spring issue 2: 5/5</button>
-                    	<button type="button" class="list-group-item">Spring issue 3: 6/2</button>
+                        <a class="list-group-item"><strong>Magazine publication dates</strong></a>
+                    	<a class="list-group-item">Fall issue 1: 9/30</a>
+                     	<a class="list-group-item">Fall issue 2: 11/4</a>
+                    	<a class="list-group-item">Fall issue 3: 12/9</a>
+                    	<a class="list-group-item">Winter issue 1: 1/13</a>
+                    	<a class="list-group-item">Winter issue 2: 2/24</a>
+                    	<a class="list-group-item">Spring issue 1: 4/7</a>
+                    	<a class="list-group-item">Spring issue 2: 5/5</a>
+                    	<a class="list-group-item">Spring issue 3: 6/2</a>
                     </div>
                 </div>
             </div>
@@ -552,10 +552,10 @@
             	<div class = "col-md-4">
                 	<h3><strong>Discounts</strong></h3>
                     <div class = "list-group">
-                        <button type="button" class = "list-group-item">Buy 5 ads, take 5% off column-inch rate</button>
-                        <button type="button" class = "list-group-item">Buy 10 ads, take 10% off column-inch rate</button>
-                        <button type="button" class = "list-group-item">Buy 15 ads, take 15% off column-inch rate</button>
-                        <button type="button" class = "list-group-item">Buy 25 ads, take 25% off column inch rate</button>
+                        <a class = "list-group-item">Buy 5 ads, take 5% off column-inch rate</a>
+                        <a class = "list-group-item">Buy 10 ads, take 10% off column-inch rate</a>
+                        <a class = "list-group-item">Buy 15 ads, take 15% off column-inch rate</a>
+                        <a class = "list-group-item">Buy 25 ads, take 25% off column inch rate</a>
                     </div>
                    	<h3><strong>Custom sizing</strong></h3>
                     <h4>
