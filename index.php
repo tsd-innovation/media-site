@@ -23,7 +23,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>The Stanford Daily</title>
+    <title>Advertise with The Stanford Daily</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet" />
@@ -95,7 +95,7 @@
         			<span class="icon-bar"></span>
         			<span class="icon-bar"></span>
       			</button>
-                <div class="navbar-brand"><a href="http://stanforddaily.com">THE STANFORD DAILY</a></div>
+                <div class="navbar-brand"><a href="http://stanforddaily.com"><img src="/images/daily-small.jpg" title="The Stanford Daily" /></a></div>
             </div>
         
             <div class="collapse navbar-collapse" id="nav-links">
