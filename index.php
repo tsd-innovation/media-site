@@ -95,7 +95,7 @@
         			<span class="icon-bar"></span>
         			<span class="icon-bar"></span>
       			</button>
-                <div class="navbar-brand"><a href="http://stanforddaily.com"><img src="/images/daily-small.jpg" title="The Stanford Daily" style="height: 40px" /></a></div>
+                <div class="navbar-brand"><a href="http://stanforddaily.com"><img src="/images/daily-small.jpg" title="The Stanford Daily" style="height: 36px; margin-top: -5px;" /></a></div>
             </div>
         
             <div class="collapse navbar-collapse" id="nav-links">
